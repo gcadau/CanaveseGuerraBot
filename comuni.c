@@ -4,6 +4,7 @@
 #include "utility.h"
 #include "casualita.h"
 #include "comune.h"
+#include "sortingCom.h"
 #include "comuni.h"
 
 struct comuni_s
@@ -113,10 +114,83 @@ void conquista(Comuni comuni)
     Comune scelto = sceltaComuneCasuale(comuni);
     Comune conquistatore = getControllore(scelto);
     Comune conquistato = Conquista(scelto, conquistatore);
+    Comune sconfitto = getControllore(conquistato);
 
-    sottraiConquista(getControllore(conquistato), conquistato);
+    sottraiConquista(sconfitto, conquistato);
     cambiaControllore(conquistato, conquistatore);
     aggiungiConquista(conquistatore, conquistato);
+
+    stampaComuneVeloce(conquistatore);
+    printf(" ha conquistato il territorio di ");
+    stampaComuneVeloce(conquistato);
+    if(conquistato!=sconfitto)
+    {
+        printf(" precedentemente occupato da ");
+        stampaComuneVeloce(sconfitto);
+    }
+    printf("\n");
+    if(!indipendente(sconfitto))
+    {
+        stampaComuneVeloce(sconfitto);
+        printf(" ha perso completamente la sua indipendenza\n");
+    }
+}
+
+void insorgi(Comuni comuni)
+{
+    Comune scelto = sceltaComuneCasuale(comuni);
+    Comune conquistatore = getControllore(scelto);
+    while(scelto==conquistatore)
+    {
+        scelto = sceltaComuneCasuale(comuni);
+        conquistatore = getControllore(scelto);
+    }
+    Comune sconfitto = getControllore(scelto);
+
+    sottraiConquista(sconfitto, scelto);
+    cambiaControllore(scelto, scelto);
+    aggiungiConquista(scelto, scelto);
+
+    printf("La popolazione di ");
+    stampaComuneVeloce(scelto);
+    printf(" e' insorta rendendo la città indipendente da ");
+    stampaComuneVeloce(sconfitto);
+    printf("\n");
+}
+
+void stampaClassifica(Comuni comuni)
+{
+    Comune* classifica = malloc(comuni->dimElenco*sizeof(Comune));
+
+    int i;
+    for(i=0; i<comuni->dimElenco; i++)
+    {
+        classifica[i] = comuni->elenco[i];
+    }
+
+    SortCom(classifica, comuni->dimElenco);
+
+    for(i=comuni->dimElenco-1; i>=0; i--)
+    {
+        stampaComune(classifica[i]);
+    }
+
+    free(classifica);
+}
+
+void stampaComuniIndipendenti(Comuni comuni)
+{
+    int indipendenti = 0;
+    int i;
+    for(i=0; i<comuni->dimElenco; i++)
+    {
+        if(indipendente(comuni->elenco[i]))
+        {
+            indipendenti++;
+        }
+    }
+
+    printf("%d comuni rimasti indipendenti\n", indipendenti);
 }
 
 void liberaComuni(Comuni comuni)

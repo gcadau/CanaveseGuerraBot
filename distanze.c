@@ -3,7 +3,7 @@
 #include <string.h>
 #include "utility.h"
 #include "distanza.h"
-#include "sorting.h"
+#include "sortingDist.h"
 #include "distanze.h"
 
 struct distanze_s
@@ -42,7 +42,7 @@ void* getMinimoX(Distanze distanze, int x)
 {
     if(!distanze->ordinato)
     {
-        Sort(distanze->elenco, distanze->dimElenco);
+        SortDist(distanze->elenco, distanze->dimElenco);
         distanze->ordinato = 1;
     }
 
