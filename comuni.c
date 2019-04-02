@@ -136,28 +136,6 @@ void conquista(Comuni comuni)
     }
 }
 
-void insorgi(Comuni comuni)
-{
-    Comune scelto = sceltaComuneCasuale(comuni);
-    Comune conquistatore = getControllore(scelto);
-    while(scelto==conquistatore)
-    {
-        scelto = sceltaComuneCasuale(comuni);
-        conquistatore = getControllore(scelto);
-    }
-    Comune sconfitto = getControllore(scelto);
-
-    sottraiConquista(sconfitto, scelto);
-    cambiaControllore(scelto, scelto);
-    aggiungiConquista(scelto, scelto);
-
-    printf("La popolazione di ");
-    stampaComuneVeloce(scelto);
-    printf(" e' insorta rendendo la città indipendente da ");
-    stampaComuneVeloce(sconfitto);
-    printf("\n");
-}
-
 void stampaClassifica(Comuni comuni)
 {
     Comune* classifica = malloc(comuni->dimElenco*sizeof(Comune));
