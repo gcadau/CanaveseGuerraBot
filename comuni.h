@@ -3,8 +3,10 @@
 
 typedef struct comuni_s* Comuni;
 
-int leggiComuni(Comuni* comuni);
+int allocaComuni(Comuni *comuni);
 void stampaComuni(Comuni comuni);
 void calcolaDistanze(Comuni comuni);
+void conquista(Comuni comuni);
+void liberaComuni(Comuni comuni);
 
 #endif //COMUNI_H

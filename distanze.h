@@ -3,8 +3,9 @@
 
 typedef struct distanze_s* Distanze;
 
-void leggiDistanze(Distanze* distanze);
-void aggiungiElemento(Distanze distanze, int i, double d);
-int getMinimo(Distanze distanze);
+void allocaDistanze(Distanze *distanze);
+void aggiungiElemento(Distanze distanze, void* i, double d);
+void* getMinimoX(Distanze distanze, int x);
+void liberaDistanze(Distanze distanze);
 
 #endif //DISTANZE_H

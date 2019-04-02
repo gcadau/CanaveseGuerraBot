@@ -11,7 +11,7 @@ struct centroide_s
     double y;
 };
 
-void leggiCentroide(Centroide* centroide, double x, double y)
+void allocaCentroide(Centroide *centroide, double x, double y)
 {
     *centroide = malloc(sizeof(struct centroide_s));
 
@@ -32,4 +32,9 @@ double distanzaCentroide(Centroide c1, Centroide c2)
     double doubleDist = pow(deltaX, 2) + pow(deltaY, 2);
 
     return sqrt(doubleDist);
+}
+
+void liberaCentroide(Centroide centroide)
+{
+    free(centroide);
 }

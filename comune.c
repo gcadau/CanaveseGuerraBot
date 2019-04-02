@@ -12,14 +12,24 @@
 struct comune_s
 {
     char* nome;
+
     Centroide centroide;
+
     Distanze distanze;
+
+    Comune controllore;
+
+    Comune* conquiste;
+    int dimConquiste;
+    int actDim;
+    int nConquiste;
 };
 
 char* parsificaStringa(char* l, char** ptr);
 int trovato(char** v, char* e, int dim);
+int giaConquistato(Comune comune, Comune conquistabile);
 
-int leggiComune(Comune* comune, char* line, char** nomi, int dimNomi)
+int allocaComune(Comune *comune, char *line, char **nomi, int dimNomi)
 {
     char* ptr = line;
 
@@ -44,12 +54,21 @@ int leggiComune(Comune* comune, char* line, char** nomi, int dimNomi)
     sscanf(ptr, "%lf,%lf", &c1, &c2);
 
     Centroide c;
-    leggiCentroide(&c, c1, c2);
+    allocaCentroide(&c, c1, c2);
     (*comune)->centroide = c;
 
     Distanze d;
-    leggiDistanze(&d);
+    allocaDistanze(&d);
     (*comune)->distanze = d;
+
+    (*comune)->controllore = *comune;
+
+    (*comune)->dimConquiste = 0;
+    (*comune)->actDim = 1;
+    (*comune)->nConquiste = 1;
+    (*comune)->conquiste = malloc(((*comune)->actDim)*sizeof(Comune));
+
+    (*comune)->conquiste[((*comune)->dimConquiste)++] = *comune;
 
     return 1;
 }
@@ -68,14 +87,81 @@ double distanza(Comune c1, Comune c2)
     return distanza;
 }
 
-void aggiungiDistanza(Comune c, double d, int i)
+void aggiungiDistanza(Comune c, double d, void* i)
 {
     aggiungiElemento(c->distanze, i, d);
 }
 
-int comunePiuVicino(Comune c)
+void* XesimoComunePiuVicino(Comune c, int x)
 {
-    return getMinimo(c->distanze);
+    return getMinimoX(c->distanze, x);
+}
+
+Comune getControllore(Comune comune)
+{
+    return comune->controllore;
+}
+
+Comune Conquista(Comune controllato, Comune conquistante)
+{
+    int x = 0;
+    Comune conquistato = (Comune) XesimoComunePiuVicino(controllato, x++);
+
+    while(!giaConquistato(conquistante, conquistato))
+    {
+        conquistato = (Comune) XesimoComunePiuVicino(controllato, x++);
+    }
+
+    return conquistato;
+}
+
+void liberaComune(Comune comune)
+{
+    free(comune->nome);
+    liberaCentroide(comune->centroide);
+    liberaDistanze(comune->distanze);
+
+    free(comune);
+}
+
+void cambiaControllore(Comune comune, Comune nuovoControllore)
+{
+    comune->controllore = nuovoControllore;
+}
+
+void aggiungiConquista(Comune comune, Comune conquista)
+{
+    int i;
+    for(i=0; i<comune->dimConquiste; i++)
+    {
+        if( comune->conquiste[i]==NULL )
+        {
+            comune->conquiste[i] = conquista;
+            comune->nConquiste++;
+            return;
+        }
+    }
+
+    if( (comune->dimConquiste) >= (comune->actDim) )
+    {
+        comune->actDim*=CRESCITA;
+        comune->conquiste = realloc(comune->conquiste, (comune->actDim)*sizeof(Comune));
+    }
+    comune->conquiste[(comune->dimConquiste)++] = conquista;
+    comune->nConquiste++;
+}
+
+void sottraiConquista(Comune comune, Comune perdita)
+{
+    int i;
+    for(i=0; i<comune->dimConquiste; i++)
+    {
+        if( comune->conquiste[i]==perdita )
+        {
+            comune->conquiste[i] = NULL;
+            comune->nConquiste--;
+        }
+    }
 }
 
 char* parsificaStringa(char* l, char** ptr)
@@ -102,6 +188,20 @@ int trovato(char** v, char* e, int dim)
     for(i=0; i<dim; i++)
     {
         if(strcmp(v[i], e)==0)
+        {
+            return 1;
+        }
+    }
+
+    return 0;
+}
+
+int giaConquistato(Comune comune, Comune conquistabile)
+{
+    int i;
+    for(i=0; i<comune->dimConquiste; i++)
+    {
+        if (conquistabile==comune->conquiste[i])
         {
             return 1;
         }

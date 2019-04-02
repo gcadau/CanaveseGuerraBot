@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "utility.h"
+#include "casualita.h"
 #include "comune.h"
 #include "comuni.h"
 
@@ -12,7 +13,9 @@ struct comuni_s
     int actDim;
 };
 
-int leggiComuni(Comuni* comuni)
+Comune sceltaComuneCasuale(Comuni comuni);
+
+int allocaComuni(Comuni *comuni)
 {
     (*comuni) = malloc(sizeof(struct comuni_s));
 
@@ -55,7 +58,7 @@ int leggiComuni(Comuni* comuni)
     while(fgets(line, N, f)!=NULL)
     {
         Comune c;
-        if(leggiComune(&c, line, nomi, dimNomi))
+        if(allocaComune(&c, line, nomi, dimNomi))
         {
             if( ((*comuni)->dimElenco) >= ((*comuni)->actDim) )
             {
@@ -98,8 +101,42 @@ void calcolaDistanze(Comuni comuni)
             if(i!=j)
             {
                 double d = distanza(comuni->elenco[i], comuni->elenco[j]);
-                aggiungiDistanza(comuni->elenco[i], d, j);
+                Comune c = comuni->elenco[j];
+                aggiungiDistanza(comuni->elenco[i], d, c);
             }
         }
     }
+}
+
+void conquista(Comuni comuni)
+{
+    Comune scelto = sceltaComuneCasuale(comuni);
+    Comune conquistatore = getControllore(scelto);
+    Comune conquistato = Conquista(scelto, conquistatore);
+
+    sottraiConquista(getControllore(conquistato), conquistato);
+    cambiaControllore(conquistato, conquistatore);
+    aggiungiConquista(conquistatore, conquistato);
+}
+
+void liberaComuni(Comuni comuni)
+{
+    int i;
+    for(i=0; i<comuni->dimElenco; i++)
+    {
+        liberaComune(comuni->elenco[i]);
+    }
+
+    free(comuni->elenco);
+
+    free(comuni);
+}
+
+Comune sceltaComuneCasuale(Comuni comuni)
+{
+    int i = generaNumeroCasuale(comuni->dimElenco);
+
+    Comune comune = comuni->elenco[i];
+
+    return comune;
 }
