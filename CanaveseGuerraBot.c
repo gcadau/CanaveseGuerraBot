@@ -14,6 +14,7 @@ void Game()
     calcolaDistanze(comuni);
 
     conquista(comuni);
+    insorgi(comuni);
 
     liberaComuni(comuni);
 }

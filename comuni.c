@@ -119,6 +119,21 @@ void conquista(Comuni comuni)
     aggiungiConquista(conquistatore, conquistato);
 }
 
+void insorgi(Comuni comuni)
+{
+    Comune scelto = sceltaComuneCasuale(comuni);
+    Comune conquistatore = getControllore(scelto);
+    while(scelto==conquistatore)
+    {
+        scelto = sceltaComuneCasuale(comuni);
+        conquistatore = getControllore(scelto);
+    }
+
+    sottraiConquista(getControllore(scelto), scelto);
+    cambiaControllore(scelto, scelto);
+    aggiungiConquista(scelto, scelto);
+}
+
 void liberaComuni(Comuni comuni)
 {
     int i;
