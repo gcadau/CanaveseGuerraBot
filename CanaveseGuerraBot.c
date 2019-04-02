@@ -16,7 +16,8 @@ void Game()
     conquista(comuni);
     insorgi(comuni);
 
+    stampaClassifica(comuni);
+    stampaComuniIndipendenti(comuni);
+
     liberaComuni(comuni);
 }
-
-

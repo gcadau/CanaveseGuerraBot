@@ -78,6 +78,15 @@ void stampaComune(Comune comune)
     printf("Comune di %s\n", comune->nome);
     printf("\t");
     stampaCentroide(comune->centroide);
+    printf("\t");
+
+    if(comune->nConquiste==1)   printf("%d comune controllato\n", comune->nConquiste);
+    else                        printf("%d comuni controllati\n", comune->nConquiste);
+}
+
+void stampaComuneVeloce(Comune comune)
+{
+    printf("%s", comune->nome);
 }
 
 double distanza(Comune c1, Comune c2)
@@ -113,6 +122,25 @@ Comune Conquista(Comune controllato, Comune conquistante)
     }
 
     return conquistato;
+}
+
+int indipendente(Comune comune)
+{
+    if(comune->nConquiste>0)
+    {
+        return 1;
+    }
+    return 0;
+}
+
+int ComuneMaggiore(Comune A, Comune B)
+{
+    return (A->nConquiste > B->nConquiste);
+}
+
+int ComuneMinore(Comune A, Comune B)
+{
+    return (A->nConquiste < B->nConquiste);
 }
 
 void liberaComune(Comune comune)
