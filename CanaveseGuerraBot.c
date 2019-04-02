@@ -14,7 +14,6 @@ void Game()
     calcolaDistanze(comuni);
 
     conquista(comuni);
-    insorgi(comuni);
 
     stampaClassifica(comuni);
     stampaComuniIndipendenti(comuni);
