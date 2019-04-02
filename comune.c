@@ -107,7 +107,7 @@ Comune Conquista(Comune controllato, Comune conquistante)
     int x = 0;
     Comune conquistato = (Comune) XesimoComunePiuVicino(controllato, x++);
 
-    while(!giaConquistato(conquistante, conquistato))
+    while(giaConquistato(conquistante, conquistato))
     {
         conquistato = (Comune) XesimoComunePiuVicino(controllato, x++);
     }
