@@ -138,13 +138,23 @@ void conquista(Comuni comuni)
 
 void insorgi(Comuni comuni)
 {
-    Comune scelto = sceltaComuneCasuale(comuni);
-    Comune conquistatore = getControllore(scelto);
-    while(scelto==conquistatore)
+    Comuni dipendenti = malloc(sizeof(struct comuni_s));
+	dipendenti->actDim = comuni->dimElenco;
+	dipendenti->elenco = malloc(dipendenti->actDim*sizeof(Comune));
+
+	int dimDipendenti = 0;
+	int i;
+    for(i=0; i<comuni->dimElenco; i++)
     {
-        scelto = sceltaComuneCasuale(comuni);
-        conquistatore = getControllore(scelto);
+        if(!indipendente(comuni->elenco[i]))
+        {
+            dipendenti->elenco[dimDipendenti++] = comuni->elenco[i];
+        }
     }
+
+	dipendenti->dimElenco = dimDipendenti;
+
+	Comune scelto = sceltaComuneCasuale(dipendenti);
     Comune sconfitto = getControllore(scelto);
 
     sottraiConquista(sconfitto, scelto);
@@ -153,9 +163,11 @@ void insorgi(Comuni comuni)
 
     printf("La popolazione di ");
     stampaComuneVeloce(scelto);
-    printf(" e' insorta rendendo la città indipendente da ");
+    printf(" e' insorta rendendo la citta' indipendente da ");
     stampaComuneVeloce(sconfitto);
     printf("\n");
+
+	free(dipendenti);
 }
 
 void stampaClassifica(Comuni comuni)
