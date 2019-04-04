@@ -10,6 +10,7 @@ void conquista(Comuni comuni);
 void insorgi(Comuni comuni);
 void stampaClassifica(Comuni comuni);
 void stampaComuniIndipendenti(Comuni comuni);
+int Vincitore(Comuni comuni); 
 void liberaComuni(Comuni comuni);
 
 #endif //COMUNI_H
