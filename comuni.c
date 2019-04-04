@@ -14,6 +14,7 @@ struct comuni_s
     int actDim;
 };
 
+int comuniIndipendenti(Comuni comuni);
 Comune sceltaComuneCasuale(Comuni comuni);
 
 int allocaComuni(Comuni *comuni)
