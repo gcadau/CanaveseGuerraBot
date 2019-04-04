@@ -5,6 +5,7 @@
 
 #define PROBABILITA 40
 #define SUCCESSO 20
+
 int count = 0;
 
 int generaNumeroCasuale(int range)
