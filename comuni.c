@@ -192,17 +192,26 @@ void stampaClassifica(Comuni comuni)
 
 void stampaComuniIndipendenti(Comuni comuni)
 {
-    int indipendenti = 0;
-    int i;
+    printf("%d comuni rimasti indipendenti\n", comuniIndipendenti(comuni));
+}
+
+int Vincitore(Comuni comuni)
+{
+    return (comuniIndipendenti(comuni)==1); 
+}
+
+int comuniIndipendenti(Comuni comuni)
+{
+    int indipendenti = 0; 
+    int i; 
     for(i=0; i<comuni->dimElenco; i++)
     {
         if(indipendente(comuni->elenco[i]))
         {
-            indipendenti++;
+            indipendenti++; 
         }
     }
-
-    printf("%d comuni rimasti indipendenti\n", indipendenti);
+    return indipendenti; 
 }
 
 void liberaComuni(Comuni comuni)
