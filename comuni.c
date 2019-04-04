@@ -139,11 +139,11 @@ void conquista(Comuni comuni)
 void insorgi(Comuni comuni)
 {
     Comuni dipendenti = malloc(sizeof(struct comuni_s));
-	dipendenti->actDim = comuni->dimElenco;
-	dipendenti->elenco = malloc(dipendenti->actDim*sizeof(Comune));
+    dipendenti->actDim = comuni->dimElenco;
+    dipendenti->elenco = malloc(dipendenti->actDim*sizeof(Comune));
 
-	int dimDipendenti = 0;
-	int i;
+    int dimDipendenti = 0;
+    int i;
     for(i=0; i<comuni->dimElenco; i++)
     {
         if(!indipendente(comuni->elenco[i]))
@@ -152,9 +152,9 @@ void insorgi(Comuni comuni)
         }
     }
 
-	dipendenti->dimElenco = dimDipendenti;
+    dipendenti->dimElenco = dimDipendenti;
 
-	Comune scelto = sceltaComuneCasuale(dipendenti);
+    Comune scelto = sceltaComuneCasuale(dipendenti);
     Comune sconfitto = getControllore(scelto);
 
     sottraiConquista(sconfitto, scelto);
@@ -167,7 +167,7 @@ void insorgi(Comuni comuni)
     stampaComuneVeloce(sconfitto);
     printf("\n");
 
-	free(dipendenti);
+    free(dipendenti);
 }
 
 void stampaClassifica(Comuni comuni)
