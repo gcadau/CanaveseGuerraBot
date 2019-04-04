@@ -6,6 +6,9 @@
 #include "comuni.h"
 #include "CanaveseGuerraBot.h"
 
+#define CONQUISTA 'C'
+#define INSURREZIONE 'R'
+
 void Game()
 {
     Comuni comuni;
@@ -13,11 +16,30 @@ void Game()
 
     calcolaDistanze(comuni);
 
-    conquista(comuni);
-    insorgi(comuni);
+    int m;  
+    while(m=mossa)
+    {
+        if (m>0)    conquista(comuni);
+        if (m<0)    insorgi(comuni);
+    }
 
     stampaClassifica(comuni);
     stampaComuniIndipendenti(comuni);
 
     liberaComuni(comuni);
+}
+
+
+int mossa()
+
+{
+    char r; 
+    scanf("%c", &r);
+    scanf("%*c");
+    r = toupper(r); 
+
+    if(r==CONQUISTA)        return 1; 
+    if(r==INSURREZIONE)     return -1; 
+    
+    return 0; 
 }
