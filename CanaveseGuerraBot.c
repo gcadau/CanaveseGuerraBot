@@ -13,7 +13,7 @@ void Game()
 
     calcolaDistanze(comuni);
 
-    conquista(comuni);
+    while(!Vincitore(comuni))     conquista(comuni);
 
     stampaClassifica(comuni);
     stampaComuniIndipendenti(comuni);
