@@ -13,11 +13,20 @@ void Game()
 
     calcolaDistanze(comuni);
 
-    conquista(comuni);
-    insorgi(comuni);
+    while(!Vincitore(comuni))
+    {
+        conquista(comuni);
+        if(insurrezioneRandomica)   insorgi(comuni);
+    }
 
     stampaClassifica(comuni);
     stampaComuniIndipendenti(comuni);
 
     liberaComuni(comuni);
+}
+
+
+int insurrezioneRandomica()
+{
+    return generaSceltaCasuale(); 
 }
