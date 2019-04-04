@@ -8,7 +8,7 @@
 #include "CanaveseGuerraBot.h"
 
 #define CONQUISTA 'C'
-#define INSURREZIONE 'R'
+#define INSURREZIONE 'I'
 
 void Game()
 {
