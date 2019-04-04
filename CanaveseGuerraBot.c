@@ -17,7 +17,7 @@ void Game()
     while(!Vincitore(comuni))
     {
         conquista(comuni);
-        if(insurrezioneRandomica)   insorgi(comuni);
+        if(insurrezioneRandomica())   insorgi(comuni);
     }
 
     stampaClassifica(comuni);
