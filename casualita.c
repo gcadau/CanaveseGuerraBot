@@ -11,7 +11,7 @@ int generaNumeroCasuale(int range)
     srand(time(NULL)+count++);
     srand(rand());
 
-    i = rand() % range + 1;
+    i = rand() % range;
 
     return i;
 }
