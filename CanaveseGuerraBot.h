@@ -3,4 +3,6 @@
 
 void Game();
 
+int mossa(); 
+
 #endif //CANAVESEGUERRABOT_H
