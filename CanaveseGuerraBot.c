@@ -17,7 +17,7 @@ void Game()
     calcolaDistanze(comuni);
 
     int m;  
-    while(m=mossa)
+    while(m=mossa())
     {
         if (m>0)    conquista(comuni);
         if (m<0)    insorgi(comuni);
@@ -31,7 +31,6 @@ void Game()
 
 
 int mossa()
-
 {
     char r; 
     scanf("%c", &r);
