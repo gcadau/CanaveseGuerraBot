@@ -1,6 +1,0 @@
-#ifndef CANAVESEGUERRABOT_H
-#define CANAVESEGUERRABOT_H
-
-void Game();
-
-#endif //CANAVESEGUERRABOT_H
