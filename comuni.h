@@ -9,7 +9,9 @@ void calcolaDistanze(Comuni comuni);
 void conquista(Comuni comuni);
 void insorgi(Comuni comuni);
 void stampaClassifica(Comuni comuni);
+void stampaClassificaBreve(Comuni comuni);
 void stampaComuniIndipendenti(Comuni comuni);
+void stampaDettagli(Comuni comuni);
 int Vincitore(Comuni comuni); 
 void liberaComuni(Comuni comuni);
 

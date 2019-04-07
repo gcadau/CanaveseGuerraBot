@@ -5,7 +5,9 @@ typedef struct comune_s* Comune;
 
 int allocaComune(Comune *comune, char *line);
 void stampaComune(Comune comune);
+void stampaComuneBreve(Comune comune);
 void stampaComuneVeloce(Comune comune);
+void stampaStatistiche(Comune comune);
 double distanza(Comune c1, Comune c2);
 void aggiungiDistanza(Comune c, double d, void* i);
 void* XesimoComunePiuVicino(Comune c, int x);

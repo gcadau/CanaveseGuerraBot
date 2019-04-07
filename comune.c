@@ -77,9 +77,42 @@ void stampaComune(Comune comune)
     else                        printf("%d comuni controllati\n", comune->nConquiste);
 }
 
+void stampaComuneBreve(Comune comune)
+{
+    printf("Comune di %s\n", comune->nome);
+    printf("\t");
+
+    if(comune->nConquiste==1)   printf("%d comune controllato\n", comune->nConquiste);
+    else                        printf("%d comuni controllati\n", comune->nConquiste);
+}
+
 void stampaComuneVeloce(Comune comune)
 {
     printf("%s", comune->nome);
+}
+
+void stampaStatistiche(Comune comune)
+{
+    stampaComuneVeloce(comune);     printf(" - ");
+    if(comune->nConquiste!=0)
+    {
+        if (comune->nConquiste==1)  printf("Comune controllato: ");
+        else                        printf("Comuni controllati: ");
+
+        int i;
+        for(i=0; i<comune->dimConquiste; i++)
+        {
+            if(comune->conquiste[i]!=NULL)  stampaComuneVeloce(comune->conquiste[i]);
+            printf("\n");
+        }
+    }
+    else
+    {
+        printf("Comune non indipendente, controllore: ");
+        stampaComuneVeloce(getControllore(comune));
+        printf("\n");
+    }
+
 }
 
 double distanza(Comune c1, Comune c2)

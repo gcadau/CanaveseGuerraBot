@@ -7,6 +7,8 @@
 #include "sortingCom.h"
 #include "comuni.h"
 
+#define BREVE 100
+
 struct comuni_s
 {
     Comune* elenco;
@@ -158,9 +160,41 @@ void stampaClassifica(Comuni comuni)
     free(classifica);
 }
 
+void stampaClassificaBreve(Comuni comuni)
+{
+    Comune* classifica = malloc(comuni->dimElenco*sizeof(Comune));
+
+    int i;
+    for(i=0; i<comuni->dimElenco; i++)
+    {
+        classifica[i] = comuni->elenco[i];
+    }
+
+    SortCom(classifica, comuni->dimElenco);
+
+    int count = 0;
+    for(i=comuni->dimElenco-1; i>=0 && count<BREVE; i--)
+    {
+        stampaComuneBreve(classifica[i]);
+        count++;
+    }
+
+    free(classifica);
+}
+
 void stampaComuniIndipendenti(Comuni comuni)
 {
     printf("%d comuni rimasti indipendenti\n", comuniIndipendenti(comuni));
+}
+
+void stampaDettagli(Comuni comuni)
+{
+    int i;
+    for(i=0; i<comuni->dimElenco; i++)
+    {
+        stampaStatistiche(comuni->elenco[i]);
+    }
+
 }
 
 int Vincitore(Comuni comuni)
