@@ -1,14 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <ctype.h>
 #include <string.h>
 #include "utility.h"
+#include "casualita.h"
 #include "comune.h"
 #include "comuni.h"
 #include "CanaveseGuerraBot.h"
-
-#define CONQUISTA 'C'
-#define INSURREZIONE 'I'
 
 void Game()
 {
@@ -17,11 +14,10 @@ void Game()
 
     calcolaDistanze(comuni);
 
-    int m;  
-    while(m=mossa())
+    while(!Vincitore(comuni))
     {
-        if (m>0)    conquista(comuni);
-        if (m<0)    insorgi(comuni);
+        conquista(comuni);
+        if(insurrezioneRandomica())   insorgi(comuni);
     }
 
     stampaClassifica(comuni);
@@ -31,15 +27,7 @@ void Game()
 }
 
 
-int mossa()
+int insurrezioneRandomica()
 {
-    char r; 
-    scanf("%c", &r);
-    scanf("%*c");
-    r = toupper(r); 
-
-    if(r==CONQUISTA)        return 1; 
-    if(r==INSURREZIONE)     return -1; 
-    
-    return 0; 
+    return generaSceltaCasuale(); 
 }

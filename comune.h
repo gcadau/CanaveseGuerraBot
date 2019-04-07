@@ -3,7 +3,7 @@
 
 typedef struct comune_s* Comune;
 
-int allocaComune(Comune *comune, char *line, char **nomi, int dimNomi);
+int allocaComune(Comune *comune, char *line);
 void stampaComune(Comune comune);
 void stampaComuneVeloce(Comune comune);
 double distanza(Comune c1, Comune c2);

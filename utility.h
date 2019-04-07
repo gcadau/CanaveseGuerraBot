@@ -5,7 +5,6 @@
 #define N 300
 
 //FILES:
-#define FILE_DATI "centroidi_comuni.csv.txt"
-#define FILE_NOMI "Canavese.txt"
+#define FILE_DATI "C:\\Users\\Giovanni\\CLionProjects\\untitled49\\centroidi_comuni.csv.txt"
 
 #endif //UTILITY_H

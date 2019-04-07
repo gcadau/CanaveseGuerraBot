@@ -3,6 +3,6 @@
 
 void Game();
 
-int mossa(); 
+int insurrezioneRandomica();
 
 #endif //CANAVESEGUERRABOT_H

@@ -14,36 +14,12 @@ struct comuni_s
     int actDim;
 };
 
+int comuniIndipendenti(Comuni comuni);
 Comune sceltaComuneCasuale(Comuni comuni);
 
 int allocaComuni(Comuni *comuni)
 {
     (*comuni) = malloc(sizeof(struct comuni_s));
-
-    FILE* g;
-    if((g=fopen(FILE_NOMI, "r"))==NULL)
-    {
-        return 0;
-    }
-
-    int actDim = 1;
-    int dimNomi = 0;
-    char** nomi = malloc(actDim*sizeof(char*));
-    char line[N];
-    while(fgets(line, N, g)!=NULL)
-    {
-        char line_pulita[N];
-        strncpy(line_pulita, line, strlen(line)-1);
-        line_pulita[strlen(line)-1] = '\0';
-        if(dimNomi >= actDim)
-        {
-            actDim*=CRESCITA;
-            nomi = realloc(nomi, actDim*sizeof(char*));
-        }
-        nomi[dimNomi++] = strdup(line_pulita);
-    }
-
-    fclose(g);
 
     FILE* f;
     if((f=fopen(FILE_DATI, "r"))==NULL)
@@ -55,30 +31,22 @@ int allocaComuni(Comuni *comuni)
     (*comuni)->actDim = 1;
     (*comuni)->elenco = malloc(((*comuni)->actDim)*sizeof(Comune));
 
+    char line[N];
     fgets(line, N, f);
     while(fgets(line, N, f)!=NULL)
     {
         Comune c;
-        if(allocaComune(&c, line, nomi, dimNomi))
+        allocaComune(&c, line);
+
+        if( ((*comuni)->dimElenco) >= ((*comuni)->actDim) )
         {
-            if( ((*comuni)->dimElenco) >= ((*comuni)->actDim) )
-            {
-                (*comuni)->actDim*=CRESCITA;
-                (*comuni)->elenco = realloc((*comuni)->elenco, (((*comuni)->actDim)*sizeof(Comune)));
-            }
-            (*comuni)->elenco[((*comuni)->dimElenco)++] = c;
+            (*comuni)->actDim*=CRESCITA;
+            (*comuni)->elenco = realloc((*comuni)->elenco, (((*comuni)->actDim)*sizeof(Comune)));
         }
+        (*comuni)->elenco[((*comuni)->dimElenco)++] = c;
     }
 
     fclose(f);
-
-    int i;
-    for(i=0; i<dimNomi; i++)
-    {
-        free(nomi[i]);
-    }
-
-    free(nomi);
 
     return 1;
 }
@@ -192,17 +160,26 @@ void stampaClassifica(Comuni comuni)
 
 void stampaComuniIndipendenti(Comuni comuni)
 {
-    int indipendenti = 0;
-    int i;
+    printf("%d comuni rimasti indipendenti\n", comuniIndipendenti(comuni));
+}
+
+int Vincitore(Comuni comuni)
+{
+    return (comuniIndipendenti(comuni)==1); 
+}
+
+int comuniIndipendenti(Comuni comuni)
+{
+    int indipendenti = 0; 
+    int i; 
     for(i=0; i<comuni->dimElenco; i++)
     {
         if(indipendente(comuni->elenco[i]))
         {
-            indipendenti++;
+            indipendenti++; 
         }
     }
-
-    printf("%d comuni rimasti indipendenti\n", indipendenti);
+    return indipendenti; 
 }
 
 void liberaComuni(Comuni comuni)

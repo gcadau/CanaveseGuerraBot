@@ -26,10 +26,9 @@ struct comune_s
 };
 
 char* parsificaStringa(char* l, char** ptr);
-int trovato(char** v, char* e, int dim);
 int giaConquistato(Comune comune, Comune conquistabile);
 
-int allocaComune(Comune *comune, char *line, char **nomi, int dimNomi)
+int allocaComune(Comune *comune, char *line)
 {
     char* ptr = line;
 
@@ -38,12 +37,6 @@ int allocaComune(Comune *comune, char *line, char **nomi, int dimNomi)
 
     ptr++;
     char* nome = parsificaStringa(ptr, &ptr);
-
-    if(!trovato(nomi, nome, dimNomi))
-    {
-        free(nome);
-        return 0;
-    }
 
     *comune = malloc(sizeof(struct comune_s));
 
@@ -208,20 +201,6 @@ char* parsificaStringa(char* l, char** ptr)
     (*ptr) = l;
 
     return strdup(acc);
-}
-
-int trovato(char** v, char* e, int dim)
-{
-    int i;
-    for(i=0; i<dim; i++)
-    {
-        if(strcmp(v[i], e)==0)
-        {
-            return 1;
-        }
-    }
-
-    return 0;
 }
 
 int giaConquistato(Comune comune, Comune conquistabile)
