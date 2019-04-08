@@ -16,6 +16,7 @@ void Game()
 
     Comuni comuni;
     allocaComuni(&comuni);
+    ordinaComuniAlfabeticamente(comuni);
 
     calcolaDistanze(comuni);
 

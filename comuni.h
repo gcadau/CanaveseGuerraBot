@@ -5,6 +5,7 @@ typedef struct comuni_s* Comuni;
 
 int allocaComuni(Comuni *comuni);
 void stampaComuni(Comuni comuni);
+void ordinaComuniAlfabeticamente(Comuni comuni);
 void calcolaDistanze(Comuni comuni);
 void conquista(Comuni comuni);
 void insorgi(Comuni comuni);
