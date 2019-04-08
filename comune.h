@@ -16,6 +16,8 @@ Comune Conquista(Comune controllato, Comune conquistante);
 int indipendente(Comune comune);
 int ComuneMaggiore(Comune A, Comune B);
 int ComuneMinore(Comune A, Comune B);
+int ComuneMaggiore_Alf(Comune A, Comune B);
+int ComuneMinore_Alf(Comune A, Comune B);
 void liberaComune(Comune comune);
 void cambiaControllore(Comune comune, Comune nuovoControllore);
 void aggiungiConquista(Comune comune, Comune conquista);

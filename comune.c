@@ -102,8 +102,11 @@ void stampaStatistiche(Comune comune)
         int i;
         for(i=0; i<comune->dimConquiste; i++)
         {
-            if(comune->conquiste[i]!=NULL)  stampaComuneVeloce(comune->conquiste[i]);
-            printf("\n");
+            if(comune->conquiste[i]!=NULL)
+            {
+                stampaComuneVeloce(comune->conquiste[i]);
+                printf("\n");
+            }
         }
     }
     else
@@ -167,6 +170,18 @@ int ComuneMaggiore(Comune A, Comune B)
 int ComuneMinore(Comune A, Comune B)
 {
     return (A->nConquiste < B->nConquiste);
+}
+
+int ComuneMaggiore_Alf(Comune A, Comune B)
+{
+    int n = strcmp(A->nome, B->nome);
+    return (n>0);
+}
+
+int ComuneMinore_Alf(Comune A, Comune B)
+{
+    int n = strcmp(A->nome, B->nome);
+    return (n<0);
 }
 
 void liberaComune(Comune comune)
