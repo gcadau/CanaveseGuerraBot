@@ -5,6 +5,7 @@
 #include "casualita.h"
 #include "comune.h"
 #include "sortingCom.h"
+#include "sortingCom_Alf.h"
 #include "comuni.h"
 
 #define BREVE 100
@@ -60,6 +61,11 @@ void stampaComuni(Comuni comuni)
     {
         stampaComune(comuni->elenco[i]);
     }
+}
+
+void ordinaComuniAlfabeticamente(Comuni comuni)
+{
+    SortCom_Alf(comuni->elenco, comuni->dimElenco);
 }
 
 void calcolaDistanze(Comuni comuni)
