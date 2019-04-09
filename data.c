@@ -44,7 +44,7 @@ void stampaData()
     stampaMese(data->mese);
     printf(" ");
     stampaAnno(data->anno);
-    printf(" ");
+    //printf(" ");
 }
 
 void incrementaData()
