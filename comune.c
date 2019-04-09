@@ -96,14 +96,15 @@ void stampaStatistiche(Comune comune)
     stampaComuneVeloce(comune);     printf(" - ");
     if(comune->nConquiste!=0)
     {
-        if (comune->nConquiste==1)  printf("Comune controllato: ");
-        else                        printf("Comuni controllati: ");
+        if (comune->nConquiste==1)  printf("Comune controllato: \n");
+        else                        printf("Comuni controllati: \n");
 
         int i;
         for(i=0; i<comune->dimConquiste; i++)
         {
             if(comune->conquiste[i]!=NULL)
             {
+                printf("\t");
                 stampaComuneVeloce(comune->conquiste[i]);
                 printf("\n");
             }
