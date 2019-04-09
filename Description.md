@@ -1,7 +1,7 @@
 Questo è un bot automatico che sceglie un paese casuale e ne conquista un altro per conto del suo controllore, 
 scegliendo quello con il centroide più vicino (il centroide è il punto medio del suo perimetro). 
 Questo significa che le probabilità di essere scelti come attaccanti sono pari al numero di territori controllati.
-La scelta può anche cadere su un'inserruzione, ovvero un paese che si rende indipendente dal proprio controllore.
+La scelta può anche cadere su un'insurrezione, ovvero un paese che si rende indipendente dal proprio controllore.
 
 This is an automatic bot that chooses a random city and conquers the closest one
 calculating their centroids (average point of its perimeter) for its "sovereign". 
