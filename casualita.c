@@ -41,7 +41,10 @@ int generaNumeroCasuale(int range)
 
     i = rand() % range;
 
-    i+=offset[n++];
+    n++;
+    if(n>=DIM)  n=0;
+    
+    i+=offset[n];
     i%=range;
 
     return i;
