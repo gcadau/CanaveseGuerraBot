@@ -62,7 +62,7 @@ int main(int argc, char** argv)
         else
         {
             int i;
-            fprintf(h, "%s", line);
+            fprintf(h, "Primi 100 comuni per conquiste: %s", line);
             for(i=0; i<LINES-2; i++)
             {
                 fgets(line, N, f);
