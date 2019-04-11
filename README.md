@@ -1,1 +1,1 @@
-# CanaveseGuerraBot/Statistiche
+# CanaveseGuerraBot/ScriptPostOrario
