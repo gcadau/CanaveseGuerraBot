@@ -1,6 +1,8 @@
 gen
-mappe
+mappe + interatt
 stats
 varianti
 promozione
 skills fb
+
+
