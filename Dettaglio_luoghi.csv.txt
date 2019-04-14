@@ -1,5 +1,5 @@
 Comune;Zona;Regione;Provincia
-Agliè;Nord-ovest;Piemonte;Torino
+Aglie';Nord-ovest;Piemonte;Torino
 Airasca;Nord-ovest;Piemonte;Torino
 Ala di Stura;Nord-ovest;Piemonte;Torino
 Albiano d'Ivrea;Nord-ovest;Piemonte;Torino
@@ -83,7 +83,7 @@ Chivasso;Nord-ovest;Piemonte;Torino
 Ciconio;Nord-ovest;Piemonte;Torino
 Cintano;Nord-ovest;Piemonte;Torino
 Cinzano;Nord-ovest;Piemonte;Torino
-Ciriè;Nord-ovest;Piemonte;Torino
+Cirie';Nord-ovest;Piemonte;Torino
 Claviere;Nord-ovest;Piemonte;Torino
 Coassolo Torinese;Nord-ovest;Piemonte;Torino
 Coazze;Nord-ovest;Piemonte;Torino
@@ -95,7 +95,7 @@ Corio;Nord-ovest;Piemonte;Torino
 Cossano Canavese;Nord-ovest;Piemonte;Torino
 Cuceglio;Nord-ovest;Piemonte;Torino
 Cumiana;Nord-ovest;Piemonte;Torino
-Cuorgnè;Nord-ovest;Piemonte;Torino
+Cuorgne';Nord-ovest;Piemonte;Torino
 Druento;Nord-ovest;Piemonte;Torino
 Exilles;Nord-ovest;Piemonte;Torino
 Favria;Nord-ovest;Piemonte;Torino
@@ -134,17 +134,17 @@ Levone;Nord-ovest;Piemonte;Torino
 Locana;Nord-ovest;Piemonte;Torino
 Lombardore;Nord-ovest;Piemonte;Torino
 Lombriasco;Nord-ovest;Piemonte;Torino
-Loranzè;Nord-ovest;Piemonte;Torino
+Loranze';Nord-ovest;Piemonte;Torino
 Luserna San Giovanni;Nord-ovest;Piemonte;Torino
 Lusernetta;Nord-ovest;Piemonte;Torino
-Lusigliè;Nord-ovest;Piemonte;Torino
+Lusiglie';Nord-ovest;Piemonte;Torino
 Macello;Nord-ovest;Piemonte;Torino
 Maglione;Nord-ovest;Piemonte;Torino
 Marentino;Nord-ovest;Piemonte;Torino
 Massello;Nord-ovest;Piemonte;Torino
 Mathi;Nord-ovest;Piemonte;Torino
 Mattie;Nord-ovest;Piemonte;Torino
-Mazzè;Nord-ovest;Piemonte;Torino
+Mazze';Nord-ovest;Piemonte;Torino
 Meana di Susa;Nord-ovest;Piemonte;Torino
 Mercenasco;Nord-ovest;Piemonte;Torino
 Mezzenile;Nord-ovest;Piemonte;Torino
@@ -220,7 +220,7 @@ Roletto;Nord-ovest;Piemonte;Torino
 Romano Canavese;Nord-ovest;Piemonte;Torino
 Ronco Canavese;Nord-ovest;Piemonte;Torino
 Rondissone;Nord-ovest;Piemonte;Torino
-Rorà;Nord-ovest;Piemonte;Torino
+Rora';Nord-ovest;Piemonte;Torino
 Roure;Nord-ovest;Piemonte;Torino
 Rosta;Nord-ovest;Piemonte;Torino
 Rubiana;Nord-ovest;Piemonte;Torino
@@ -288,8 +288,8 @@ Venaus;Nord-ovest;Piemonte;Torino
 Venaria Reale;Nord-ovest;Piemonte;Torino
 Verolengo;Nord-ovest;Piemonte;Torino
 Verrua Savoia;Nord-ovest;Piemonte;Torino
-Vestignè;Nord-ovest;Piemonte;Torino
-Vialfrè;Nord-ovest;Piemonte;Torino
+Vestigne';Nord-ovest;Piemonte;Torino
+Vialfre';Nord-ovest;Piemonte;Torino
 Vidracco;Nord-ovest;Piemonte;Torino
 Vigone;Nord-ovest;Piemonte;Torino
 Villafranca Piemonte;Nord-ovest;Piemonte;Torino
@@ -305,7 +305,7 @@ Vinovo;Nord-ovest;Piemonte;Torino
 Virle Piemonte;Nord-ovest;Piemonte;Torino
 Vische;Nord-ovest;Piemonte;Torino
 Vistrorio;Nord-ovest;Piemonte;Torino
-Viù;Nord-ovest;Piemonte;Torino
+Viu';Nord-ovest;Piemonte;Torino
 Volpiano;Nord-ovest;Piemonte;Torino
 Volvera;Nord-ovest;Piemonte;Torino
 Mappano;Nord-ovest;Piemonte;Torino
@@ -318,7 +318,7 @@ Arborio;Nord-ovest;Piemonte;Vercelli
 Asigliano Vercellese;Nord-ovest;Piemonte;Vercelli
 Balmuccia;Nord-ovest;Piemonte;Vercelli
 Balocco;Nord-ovest;Piemonte;Vercelli
-Bianzè;Nord-ovest;Piemonte;Vercelli
+Bianze';Nord-ovest;Piemonte;Vercelli
 Boccioleto;Nord-ovest;Piemonte;Vercelli
 Borgo d'Ale;Nord-ovest;Piemonte;Vercelli
 Borgosesia;Nord-ovest;Piemonte;Vercelli
@@ -377,7 +377,7 @@ Salasco;Nord-ovest;Piemonte;Vercelli
 Sali Vercellese;Nord-ovest;Piemonte;Vercelli
 Saluggia;Nord-ovest;Piemonte;Vercelli
 San Germano Vercellese;Nord-ovest;Piemonte;Vercelli
-Santhià;Nord-ovest;Piemonte;Vercelli
+Santhia';Nord-ovest;Piemonte;Vercelli
 Scopa;Nord-ovest;Piemonte;Vercelli
 Scopello;Nord-ovest;Piemonte;Vercelli
 Serravalle Sesia;Nord-ovest;Piemonte;Vercelli
@@ -493,7 +493,7 @@ Baldissero d'Alba;Nord-ovest;Piemonte;Cuneo
 Barbaresco;Nord-ovest;Piemonte;Cuneo
 Barge;Nord-ovest;Piemonte;Cuneo
 Barolo;Nord-ovest;Piemonte;Cuneo
-Bastia Mondovì;Nord-ovest;Piemonte;Cuneo
+Bastia Mondovi';Nord-ovest;Piemonte;Cuneo
 Battifollo;Nord-ovest;Piemonte;Cuneo
 Beinette;Nord-ovest;Piemonte;Cuneo
 Bellino;Nord-ovest;Piemonte;Cuneo
@@ -520,8 +520,8 @@ Canosio;Nord-ovest;Piemonte;Cuneo
 Caprauna;Nord-ovest;Piemonte;Cuneo
 Caraglio;Nord-ovest;Piemonte;Cuneo
 Caramagna Piemonte;Nord-ovest;Piemonte;Cuneo
-Cardè;Nord-ovest;Piemonte;Cuneo
-Carrù;Nord-ovest;Piemonte;Cuneo
+Carde';Nord-ovest;Piemonte;Cuneo
+Carru';Nord-ovest;Piemonte;Cuneo
 Cartignano;Nord-ovest;Piemonte;Cuneo
 Casalgrasso;Nord-ovest;Piemonte;Cuneo
 Castagnito;Nord-ovest;Piemonte;Cuneo
@@ -546,7 +546,7 @@ Cervere;Nord-ovest;Piemonte;Cuneo
 Ceva;Nord-ovest;Piemonte;Cuneo
 Cherasco;Nord-ovest;Piemonte;Cuneo
 Chiusa di Pesio;Nord-ovest;Piemonte;Cuneo
-Cigliè;Nord-ovest;Piemonte;Cuneo
+Ciglie';Nord-ovest;Piemonte;Cuneo
 Cissone;Nord-ovest;Piemonte;Cuneo
 Clavesana;Nord-ovest;Piemonte;Cuneo
 Corneliano d'Alba;Nord-ovest;Piemonte;Cuneo
@@ -607,11 +607,11 @@ Monastero di Vasco;Nord-ovest;Piemonte;Cuneo
 Monasterolo Casotto;Nord-ovest;Piemonte;Cuneo
 Monasterolo di Savigliano;Nord-ovest;Piemonte;Cuneo
 Monchiero;Nord-ovest;Piemonte;Cuneo
-Mondovì;Nord-ovest;Piemonte;Cuneo
+Mondovi';Nord-ovest;Piemonte;Cuneo
 Monesiglio;Nord-ovest;Piemonte;Cuneo
 Monforte d'Alba;Nord-ovest;Piemonte;Cuneo
-Montà;Nord-ovest;Piemonte;Cuneo
-Montaldo di Mondovì;Nord-ovest;Piemonte;Cuneo
+Monta';Nord-ovest;Piemonte;Cuneo
+Montaldo di Mondovi';Nord-ovest;Piemonte;Cuneo
 Montaldo Roero;Nord-ovest;Piemonte;Cuneo
 Montanera;Nord-ovest;Piemonte;Cuneo
 Montelupo Albese;Nord-ovest;Piemonte;Cuneo
@@ -665,9 +665,9 @@ Roascio;Nord-ovest;Piemonte;Cuneo
 Robilante;Nord-ovest;Piemonte;Cuneo
 Roburent;Nord-ovest;Piemonte;Cuneo
 Roccabruna;Nord-ovest;Piemonte;Cuneo
-Rocca Cigliè;Nord-ovest;Piemonte;Cuneo
+Rocca Ciglie';Nord-ovest;Piemonte;Cuneo
 Rocca de' Baldi;Nord-ovest;Piemonte;Cuneo
-Roccaforte Mondovì;Nord-ovest;Piemonte;Cuneo
+Roccaforte Mondovi';Nord-ovest;Piemonte;Cuneo
 Roccasparvera;Nord-ovest;Piemonte;Cuneo
 Roccavione;Nord-ovest;Piemonte;Cuneo
 Rocchetta Belbo;Nord-ovest;Piemonte;Cuneo
@@ -685,9 +685,9 @@ Sambuco;Nord-ovest;Piemonte;Cuneo
 Sampeyre;Nord-ovest;Piemonte;Cuneo
 San Benedetto Belbo;Nord-ovest;Piemonte;Cuneo
 San Damiano Macra;Nord-ovest;Piemonte;Cuneo
-Sanfrè;Nord-ovest;Piemonte;Cuneo
+Sanfre';Nord-ovest;Piemonte;Cuneo
 Sanfront;Nord-ovest;Piemonte;Cuneo
-San Michele Mondovì;Nord-ovest;Piemonte;Cuneo
+San Michele Mondovi';Nord-ovest;Piemonte;Cuneo
 Sant'Albano Stura;Nord-ovest;Piemonte;Cuneo
 Santa Vittoria d'Alba;Nord-ovest;Piemonte;Cuneo
 Santo Stefano Belbo;Nord-ovest;Piemonte;Cuneo
@@ -704,12 +704,12 @@ Sommariva Perno;Nord-ovest;Piemonte;Cuneo
 Stroppo;Nord-ovest;Piemonte;Cuneo
 Tarantasca;Nord-ovest;Piemonte;Cuneo
 Torre Bormida;Nord-ovest;Piemonte;Cuneo
-Torre Mondovì;Nord-ovest;Piemonte;Cuneo
+Torre Mondovi';Nord-ovest;Piemonte;Cuneo
 Torre San Giorgio;Nord-ovest;Piemonte;Cuneo
 Torresina;Nord-ovest;Piemonte;Cuneo
 Treiso;Nord-ovest;Piemonte;Cuneo
 Trezzo Tinella;Nord-ovest;Piemonte;Cuneo
-Trinità;Nord-ovest;Piemonte;Cuneo
+Trinita';Nord-ovest;Piemonte;Cuneo
 Valdieri;Nord-ovest;Piemonte;Cuneo
 Valgrana;Nord-ovest;Piemonte;Cuneo
 Valloriate;Nord-ovest;Piemonte;Cuneo
@@ -721,7 +721,7 @@ Vezza d'Alba;Nord-ovest;Piemonte;Cuneo
 Vicoforte;Nord-ovest;Piemonte;Cuneo
 Vignolo;Nord-ovest;Piemonte;Cuneo
 Villafalletto;Nord-ovest;Piemonte;Cuneo
-Villanova Mondovì;Nord-ovest;Piemonte;Cuneo
+Villanova Mondovi';Nord-ovest;Piemonte;Cuneo
 Villanova Solaro;Nord-ovest;Piemonte;Cuneo
 Villar San Costanzo;Nord-ovest;Piemonte;Cuneo
 Vinadio;Nord-ovest;Piemonte;Cuneo
@@ -810,7 +810,7 @@ Passerano Marmorito;Nord-ovest;Piemonte;Asti
 Penango;Nord-ovest;Piemonte;Asti
 Piea;Nord-ovest;Piemonte;Asti
 Pino d'Asti;Nord-ovest;Piemonte;Asti
-Piovà Massaia;Nord-ovest;Piemonte;Asti
+Piova' Massaia;Nord-ovest;Piemonte;Asti
 Portacomaro;Nord-ovest;Piemonte;Asti
 Quaranti;Nord-ovest;Piemonte;Asti
 Refrancore;Nord-ovest;Piemonte;Asti
@@ -1046,7 +1046,7 @@ Candelo;Nord-ovest;Piemonte;Biella
 Caprile;Nord-ovest;Piemonte;Biella
 Casapinta;Nord-ovest;Piemonte;Biella
 Castelletto Cervo;Nord-ovest;Piemonte;Biella
-Cavaglià;Nord-ovest;Piemonte;Biella
+Cavaglia';Nord-ovest;Piemonte;Biella
 Cerrione;Nord-ovest;Piemonte;Biella
 Coggiola;Nord-ovest;Piemonte;Biella
 Cossato;Nord-ovest;Piemonte;Biella
@@ -1180,80 +1180,80 @@ Villette;Nord-ovest;Piemonte;Verbano-Cusio-Ossola
 Vogogna;Nord-ovest;Piemonte;Verbano-Cusio-Ossola
 Borgomezzavalle;Nord-ovest;Piemonte;Verbano-Cusio-Ossola
 Valle Cannobina;Nord-ovest;Piemonte;Verbano-Cusio-Ossola
-Allein;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Antey-Saint-André;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Aosta;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Arnad;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Arvier;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Avise;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Ayas;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Aymavilles;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Bard;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Bionaz;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Brissogne;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Brusson;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Challand-Saint-Anselme;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Challand-Saint-Victor;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Chambave;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Chamois;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Champdepraz;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Champorcher;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Charvensod;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Châtillon;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Cogne;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Courmayeur;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Donnas;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Doues;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Emarèse;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Etroubles;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Fénis;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Fontainemore;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Gaby;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Gignod;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Gressan;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Gressoney-La-Trinité;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Gressoney-Saint-Jean;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Hône;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Introd;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Issime;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Issogne;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Jovençan;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-La Magdeleine;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-La Salle;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-La Thuile;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Lillianes;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Montjovet;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Morgex;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Nus;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Ollomont;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Oyace;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Perloz;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Pollein;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Pontboset;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Pontey;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Pont-Saint-Martin;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Pré-Saint-Didier;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Quart;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Rhêmes-Notre-Dame;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Rhêmes-Saint-Georges;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Roisan;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Saint-Christophe;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Saint-Denis;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Saint-Marcel;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Saint-Nicolas;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Saint-Oyen;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Saint-Pierre;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Saint-Rhémy-en-Bosses;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Saint-Vincent;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Sarre;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Torgnon;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Valgrisenche;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Valpelline;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Valsavarenche;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Valtournenche;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Verrayes;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Verrès;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
-Villeneuve;Nord-ovest;Valle d'Aosta/Vallée d'Aoste;Valle d'Aosta/Vallée d'Aoste
+Allein;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Antey-Saint-Andre';Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Aosta;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Arnad;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Arvier;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Avise;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Ayas;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Aymavilles;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Bard;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Bionaz;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Brissogne;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Brusson;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Challand-Saint-Anselme;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Challand-Saint-Victor;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Chambave;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Chamois;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Champdepraz;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Champorcher;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Charvensod;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Châtillon;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Cogne;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Courmayeur;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Donnas;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Doues;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Emare'se;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Etroubles;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Fe'nis;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Fontainemore;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Gaby;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Gignod;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Gressan;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Gressoney-La-Trinite';Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Gressoney-Saint-Jean;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Hône;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Introd;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Issime;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Issogne;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Jovençan;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+La Magdeleine;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+La Salle;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+La Thuile;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Lillianes;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Montjovet;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Morgex;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Nus;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Ollomont;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Oyace;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Perloz;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Pollein;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Pontboset;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Pontey;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Pont-Saint-Martin;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Pre'-Saint-Didier;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Quart;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Rhêmes-Notre-Dame;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Rhêmes-Saint-Georges;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Roisan;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Saint-Christophe;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Saint-Denis;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Saint-Marcel;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Saint-Nicolas;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Saint-Oyen;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Saint-Pierre;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Saint-Rhe'my-en-Bosses;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Saint-Vincent;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Sarre;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Torgnon;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Valgrisenche;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Valpelline;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Valsavarenche;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Valtournenche;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Verrayes;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Verre's;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Villeneuve;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Agra;Nord-ovest;Lombardia;Varese
 Albizzate;Nord-ovest;Lombardia;Varese
 Angera;Nord-ovest;Lombardia;Varese
@@ -1387,7 +1387,7 @@ Vedano Olona;Nord-ovest;Lombardia;Varese
 Venegono Inferiore;Nord-ovest;Lombardia;Varese
 Venegono Superiore;Nord-ovest;Lombardia;Varese
 Vergiate;Nord-ovest;Lombardia;Varese
-Viggiù;Nord-ovest;Lombardia;Varese
+Viggiu';Nord-ovest;Lombardia;Varese
 Vizzola Ticino;Nord-ovest;Lombardia;Varese
 Sangiano;Nord-ovest;Lombardia;Varese
 Maccagno con Pino e Veddasca;Nord-ovest;Lombardia;Varese
@@ -1418,7 +1418,7 @@ Cabiate;Nord-ovest;Lombardia;Como
 Cadorago;Nord-ovest;Lombardia;Como
 Caglio;Nord-ovest;Lombardia;Como
 Campione d'Italia;Nord-ovest;Lombardia;Como
-Cantù;Nord-ovest;Lombardia;Como
+Cantu';Nord-ovest;Lombardia;Como
 Canzo;Nord-ovest;Lombardia;Como
 Capiago Intimiano;Nord-ovest;Lombardia;Como
 Carate Urio;Nord-ovest;Lombardia;Como
@@ -1451,7 +1451,7 @@ Erba;Nord-ovest;Lombardia;Como
 Eupilio;Nord-ovest;Lombardia;Como
 Faggeto Lario;Nord-ovest;Lombardia;Como
 Faloppio;Nord-ovest;Lombardia;Como
-Fenegrò;Nord-ovest;Lombardia;Como
+Fenegro';Nord-ovest;Lombardia;Como
 Figino Serenza;Nord-ovest;Lombardia;Como
 Fino Mornasco;Nord-ovest;Lombardia;Como
 Garzeno;Nord-ovest;Lombardia;Como
@@ -1754,7 +1754,7 @@ Adrara San Martino;Nord-ovest;Lombardia;Bergamo
 Adrara San Rocco;Nord-ovest;Lombardia;Bergamo
 Albano Sant'Alessandro;Nord-ovest;Lombardia;Bergamo
 Albino;Nord-ovest;Lombardia;Bergamo
-Almè;Nord-ovest;Lombardia;Bergamo
+Alme';Nord-ovest;Lombardia;Bergamo
 Almenno San Bartolomeo;Nord-ovest;Lombardia;Bergamo
 Almenno San Salvatore;Nord-ovest;Lombardia;Bergamo
 Alzano Lombardo;Nord-ovest;Lombardia;Bergamo
@@ -1978,7 +1978,7 @@ Viadanica;Nord-ovest;Lombardia;Bergamo
 Vigano San Martino;Nord-ovest;Lombardia;Bergamo
 Vigolo;Nord-ovest;Lombardia;Bergamo
 Villa d'Adda;Nord-ovest;Lombardia;Bergamo
-Villa d'Almè;Nord-ovest;Lombardia;Bergamo
+Villa d'Alme';Nord-ovest;Lombardia;Bergamo
 Villa di Serio;Nord-ovest;Lombardia;Bergamo
 Villa d'Ogna;Nord-ovest;Lombardia;Bergamo
 Villongo;Nord-ovest;Lombardia;Bergamo
@@ -2155,13 +2155,13 @@ Remedello;Nord-ovest;Lombardia;Brescia
 Rezzato;Nord-ovest;Lombardia;Brescia
 Roccafranca;Nord-ovest;Lombardia;Brescia
 Rodengo Saiano;Nord-ovest;Lombardia;Brescia
-Roè Volciano;Nord-ovest;Lombardia;Brescia
+Roe' Volciano;Nord-ovest;Lombardia;Brescia
 Roncadelle;Nord-ovest;Lombardia;Brescia
 Rovato;Nord-ovest;Lombardia;Brescia
 Rudiano;Nord-ovest;Lombardia;Brescia
 Sabbio Chiese;Nord-ovest;Lombardia;Brescia
 Sale Marasino;Nord-ovest;Lombardia;Brescia
-Salò;Nord-ovest;Lombardia;Brescia
+Salo';Nord-ovest;Lombardia;Brescia
 San Felice del Benaco;Nord-ovest;Lombardia;Brescia
 San Gervasio Bresciano;Nord-ovest;Lombardia;Brescia
 San Zeno Naviglio;Nord-ovest;Lombardia;Brescia
@@ -2175,7 +2175,7 @@ Soiano del Lago;Nord-ovest;Lombardia;Brescia
 Sonico;Nord-ovest;Lombardia;Brescia
 Sulzano;Nord-ovest;Lombardia;Brescia
 Tavernole sul Mella;Nord-ovest;Lombardia;Brescia
-Temù;Nord-ovest;Lombardia;Brescia
+Temu';Nord-ovest;Lombardia;Brescia
 Tignale;Nord-ovest;Lombardia;Brescia
 Torbole Casaglia;Nord-ovest;Lombardia;Brescia
 Toscolano-Maderno;Nord-ovest;Lombardia;Brescia
@@ -2206,7 +2206,7 @@ Arena Po;Nord-ovest;Lombardia;Pavia
 Badia Pavese;Nord-ovest;Lombardia;Pavia
 Bagnaria;Nord-ovest;Lombardia;Pavia
 Barbianello;Nord-ovest;Lombardia;Pavia
-Bascapè;Nord-ovest;Lombardia;Pavia
+Bascape';Nord-ovest;Lombardia;Pavia
 Bastida Pancarana;Nord-ovest;Lombardia;Pavia
 Battuda;Nord-ovest;Lombardia;Pavia
 Belgioioso;Nord-ovest;Lombardia;Pavia
@@ -2261,7 +2261,7 @@ Fortunago;Nord-ovest;Lombardia;Pavia
 Frascarolo;Nord-ovest;Lombardia;Pavia
 Galliavola;Nord-ovest;Lombardia;Pavia
 Gambarana;Nord-ovest;Lombardia;Pavia
-Gambolò;Nord-ovest;Lombardia;Pavia
+Gambolo';Nord-ovest;Lombardia;Pavia
 Garlasco;Nord-ovest;Lombardia;Pavia
 Gerenzago;Nord-ovest;Lombardia;Pavia
 Giussago;Nord-ovest;Lombardia;Pavia
@@ -2292,7 +2292,7 @@ Montecalvo Versiggia;Nord-ovest;Lombardia;Pavia
 Montescano;Nord-ovest;Lombardia;Pavia
 Montesegale;Nord-ovest;Lombardia;Pavia
 Monticelli Pavese;Nord-ovest;Lombardia;Pavia
-Montù Beccaria;Nord-ovest;Lombardia;Pavia
+Montu' Beccaria;Nord-ovest;Lombardia;Pavia
 Mornico Losana;Nord-ovest;Lombardia;Pavia
 Mortara;Nord-ovest;Lombardia;Pavia
 Nicorvo;Nord-ovest;Lombardia;Pavia
@@ -2353,7 +2353,7 @@ Torre de' Negri;Nord-ovest;Lombardia;Pavia
 Torre d'Isola;Nord-ovest;Lombardia;Pavia
 Torrevecchia Pia;Nord-ovest;Lombardia;Pavia
 Torricella Verzate;Nord-ovest;Lombardia;Pavia
-Travacò Siccomario;Nord-ovest;Lombardia;Pavia
+Travaco' Siccomario;Nord-ovest;Lombardia;Pavia
 Trivolzio;Nord-ovest;Lombardia;Pavia
 Tromello;Nord-ovest;Lombardia;Pavia
 Trovo;Nord-ovest;Lombardia;Pavia
@@ -2379,7 +2379,7 @@ Zeccone;Nord-ovest;Lombardia;Pavia
 Zeme;Nord-ovest;Lombardia;Pavia
 Zenevredo;Nord-ovest;Lombardia;Pavia
 Zerbo;Nord-ovest;Lombardia;Pavia
-Zerbolò;Nord-ovest;Lombardia;Pavia
+Zerbolo';Nord-ovest;Lombardia;Pavia
 Zinasco;Nord-ovest;Lombardia;Pavia
 Cornale e Bastida;Nord-ovest;Lombardia;Pavia
 Corteolona e Genzone;Nord-ovest;Lombardia;Pavia
@@ -2566,7 +2566,7 @@ Airuno;Nord-ovest;Lombardia;Lecco
 Annone di Brianza;Nord-ovest;Lombardia;Lecco
 Ballabio;Nord-ovest;Lombardia;Lecco
 Barzago;Nord-ovest;Lombardia;Lecco
-Barzanò;Nord-ovest;Lombardia;Lecco
+Barzano';Nord-ovest;Lombardia;Lecco
 Barzio;Nord-ovest;Lombardia;Lecco
 Bellano;Nord-ovest;Lombardia;Lecco
 Bosisio Parini;Nord-ovest;Lombardia;Lecco
@@ -2631,7 +2631,7 @@ Premana;Nord-ovest;Lombardia;Lecco
 Primaluna;Nord-ovest;Lombardia;Lecco
 Robbiate;Nord-ovest;Lombardia;Lecco
 Rogeno;Nord-ovest;Lombardia;Lecco
-Santa Maria Hoè;Nord-ovest;Lombardia;Lecco
+Santa Maria Hoe';Nord-ovest;Lombardia;Lecco
 Sirone;Nord-ovest;Lombardia;Lecco
 Sirtori;Nord-ovest;Lombardia;Lecco
 Sueglio;Nord-ovest;Lombardia;Lecco
@@ -2642,7 +2642,7 @@ Valmadrera;Nord-ovest;Lombardia;Lecco
 Varenna;Nord-ovest;Lombardia;Lecco
 Vendrogno;Nord-ovest;Lombardia;Lecco
 Vercurago;Nord-ovest;Lombardia;Lecco
-Viganò;Nord-ovest;Lombardia;Lecco
+Vigano';Nord-ovest;Lombardia;Lecco
 Verderio;Nord-ovest;Lombardia;Lecco
 La Valletta Brianza;Nord-ovest;Lombardia;Lecco
 Valvarrone;Nord-ovest;Lombardia;Lecco
@@ -2739,7 +2739,7 @@ Meda;Nord-ovest;Lombardia;Monza e della Brianza
 Mezzago;Nord-ovest;Lombardia;Monza e della Brianza
 Misinto;Nord-ovest;Lombardia;Monza e della Brianza
 Monza;Nord-ovest;Lombardia;Monza e della Brianza
-Muggiò;Nord-ovest;Lombardia;Monza e della Brianza
+Muggio';Nord-ovest;Lombardia;Monza e della Brianza
 Nova Milanese;Nord-ovest;Lombardia;Monza e della Brianza
 Ornago;Nord-ovest;Lombardia;Monza e della Brianza
 Renate;Nord-ovest;Lombardia;Monza e della Brianza
@@ -2791,7 +2791,7 @@ Curon Venosta;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Dobbiaco;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Egna;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Falzes;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Fiè allo Sciliar;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
+Fie' allo Sciliar;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Fortezza;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Funes;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Gais;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
@@ -2805,7 +2805,7 @@ Lana;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Lasa;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Lauregno;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Luson;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Magrè sulla strada del vino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
+Magre' sulla strada del vino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Malles Venosta;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Marebbe;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
 Marlengo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
@@ -2883,7 +2883,7 @@ Aldeno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Andalo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Arco;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Avio;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Baselga di Pinè;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Baselga di Pine';Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Bedollo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Besenello;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Bieno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
@@ -2895,7 +2895,7 @@ Brentonico;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Bresimo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Brez;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Caderzone Terme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cagnò;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Cagno';Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Calceranica al Lago;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Caldes;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Caldonazzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
@@ -2933,7 +2933,7 @@ Drena;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Dro;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Faedo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Fai della Paganella;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Fiavè;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Fiave';Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Fierozzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Folgaria;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Fondo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
@@ -2951,7 +2951,7 @@ Levico Terme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Livo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Lona-Lases;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Luserna;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Malé;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Male';Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Malosco;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Massimeno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Mazzin;Nord-est;Trentino-Alto Adige/Südtirol;Trento
@@ -2968,8 +2968,8 @@ Nomi;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Novaledo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Ospedaletto;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Ossana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Palù del Fersina;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Panchià;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Palu' del Fersina;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Panchia';Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Ronzo-Chienis;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Peio;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Pellizzano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
@@ -2980,16 +2980,16 @@ Pinzolo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Pomarolo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Predazzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Rabbi;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Revò;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Revo';Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Riva del Garda;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Romallo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Romeno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Roncegno Terme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Ronchi Valsugana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Ronzone;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Roverè della Luna;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Rovere' della Luna;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Rovereto;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ruffrè-Mendola;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Ruffre'-Mendola;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Rumo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Sagron Mis;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Samone;Nord-est;Trentino-Alto Adige/Südtirol;Trento
@@ -3042,7 +3042,7 @@ Borgo Chiese;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Borgo Lares;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Castel Ivano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Cembra Lisignago;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Contà;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Conta';Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Madruzzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Porte di Rendena;Nord-est;Trentino-Alto Adige/Südtirol;Trento
 Primiero San Martino di Castrozza;Nord-est;Trentino-Alto Adige/Südtirol;Trento
@@ -3082,8 +3082,8 @@ Cologna Veneta;Nord-est;Veneto;Verona
 Colognola ai Colli;Nord-est;Veneto;Verona
 Concamarise;Nord-est;Veneto;Verona
 Costermano sul Garda;Nord-est;Veneto;Verona
-Dolcè;Nord-est;Veneto;Verona
-Erbè;Nord-est;Veneto;Verona
+Dolce';Nord-est;Veneto;Verona
+Erbe';Nord-est;Veneto;Verona
 Erbezzo;Nord-est;Veneto;Verona
 Ferrara di Monte Baldo;Nord-est;Veneto;Verona
 Fumane;Nord-est;Veneto;Verona
@@ -3107,18 +3107,18 @@ Negrar;Nord-est;Veneto;Verona
 Nogara;Nord-est;Veneto;Verona
 Nogarole Rocca;Nord-est;Veneto;Verona
 Oppeano;Nord-est;Veneto;Verona
-Palù;Nord-est;Veneto;Verona
+Palu';Nord-est;Veneto;Verona
 Pastrengo;Nord-est;Veneto;Verona
 Pescantina;Nord-est;Veneto;Verona
 Peschiera del Garda;Nord-est;Veneto;Verona
 Povegliano Veronese;Nord-est;Veneto;Verona
 Pressana;Nord-est;Veneto;Verona
 Rivoli Veronese;Nord-est;Veneto;Verona
-Roncà;Nord-est;Veneto;Verona
+Ronca';Nord-est;Veneto;Verona
 Ronco all'Adige;Nord-est;Veneto;Verona
 Roverchiara;Nord-est;Veneto;Verona
-Roveredo di Guà;Nord-est;Veneto;Verona
-Roverè Veronese;Nord-est;Veneto;Verona
+Roveredo di Gua';Nord-est;Veneto;Verona
+Rovere' Veronese;Nord-est;Veneto;Verona
 Salizzole;Nord-est;Veneto;Verona
 San Bonifacio;Nord-est;Veneto;Verona
 San Giovanni Ilarione;Nord-est;Veneto;Verona
@@ -3135,7 +3135,7 @@ Selva di Progno;Nord-est;Veneto;Verona
 Soave;Nord-est;Veneto;Verona
 Sommacampagna;Nord-est;Veneto;Verona
 Sona;Nord-est;Veneto;Verona
-Sorgà;Nord-est;Veneto;Verona
+Sorga';Nord-est;Veneto;Verona
 Terrazzo;Nord-est;Veneto;Verona
 Torri del Benaco;Nord-est;Veneto;Verona
 Tregnago;Nord-est;Veneto;Verona
@@ -3171,7 +3171,7 @@ Caltrano;Nord-est;Veneto;Vicenza
 Calvene;Nord-est;Veneto;Vicenza
 Camisano Vicentino;Nord-est;Veneto;Vicenza
 Campiglia dei Berici;Nord-est;Veneto;Vicenza
-Carrè;Nord-est;Veneto;Vicenza
+Carre';Nord-est;Veneto;Vicenza
 Cartigliano;Nord-est;Veneto;Vicenza
 Cassola;Nord-est;Veneto;Vicenza
 Castegnero;Nord-est;Veneto;Vicenza
@@ -3227,7 +3227,7 @@ Quinto Vicentino;Nord-est;Veneto;Vicenza
 Recoaro Terme;Nord-est;Veneto;Vicenza
 Roana;Nord-est;Veneto;Vicenza
 Romano d'Ezzelino;Nord-est;Veneto;Vicenza
-Rosà;Nord-est;Veneto;Vicenza
+Rosa';Nord-est;Veneto;Vicenza
 Rossano Veneto;Nord-est;Veneto;Vicenza
 Rotzo;Nord-est;Veneto;Vicenza
 Salcedo;Nord-est;Veneto;Vicenza
@@ -3255,7 +3255,7 @@ Velo d'Astico;Nord-est;Veneto;Vicenza
 Vicenza;Nord-est;Veneto;Vicenza
 Villaga;Nord-est;Veneto;Vicenza
 Villaverla;Nord-est;Veneto;Vicenza
-Zanè;Nord-est;Veneto;Vicenza
+Zane';Nord-est;Veneto;Vicenza
 Zermeghedo;Nord-est;Veneto;Vicenza
 Zovencedo;Nord-est;Veneto;Vicenza
 Zugliano;Nord-est;Veneto;Vicenza
@@ -3267,7 +3267,7 @@ Lusiana Conco;Nord-est;Veneto;Vicenza
 Agordo;Nord-est;Veneto;Belluno
 Alano di Piave;Nord-est;Veneto;Belluno
 Alleghe;Nord-est;Veneto;Belluno
-Arsiè;Nord-est;Veneto;Belluno
+Arsie';Nord-est;Veneto;Belluno
 Auronzo di Cadore;Nord-est;Veneto;Belluno
 Belluno;Nord-est;Veneto;Belluno
 Borca di Cadore;Nord-est;Veneto;Belluno
@@ -3300,7 +3300,7 @@ Ponte nelle Alpi;Nord-est;Veneto;Belluno
 Rivamonte Agordino;Nord-est;Veneto;Belluno
 Rocca Pietore;Nord-est;Veneto;Belluno
 San Gregorio nelle Alpi;Nord-est;Veneto;Belluno
-San Nicolò di Comelico;Nord-est;Veneto;Belluno
+San Nicolo' di Comelico;Nord-est;Veneto;Belluno
 San Pietro di Cadore;Nord-est;Veneto;Belluno
 Santa Giustina;Nord-est;Veneto;Belluno
 San Tomaso Agordino;Nord-est;Veneto;Belluno
@@ -3319,7 +3319,7 @@ Valle di Cadore;Nord-est;Veneto;Belluno
 Vigo di Cadore;Nord-est;Veneto;Belluno
 Vodo Cadore;Nord-est;Veneto;Belluno
 Voltago Agordino;Nord-est;Veneto;Belluno
-Zoppè di Cadore;Nord-est;Veneto;Belluno
+Zoppe' di Cadore;Nord-est;Veneto;Belluno
 Quero Vas;Nord-est;Veneto;Belluno
 Longarone;Nord-est;Veneto;Belluno
 Alpago;Nord-est;Veneto;Belluno
@@ -3343,7 +3343,7 @@ Cessalto;Nord-est;Veneto;Treviso
 Chiarano;Nord-est;Veneto;Treviso
 Cimadolmo;Nord-est;Veneto;Treviso
 Cison di Valmarino;Nord-est;Veneto;Treviso
-Codognè;Nord-est;Veneto;Treviso
+Codogne';Nord-est;Veneto;Treviso
 Colle Umberto;Nord-est;Veneto;Treviso
 Conegliano;Nord-est;Veneto;Treviso
 Cordignano;Nord-est;Veneto;Treviso
@@ -3360,7 +3360,7 @@ Godega di Sant'Urbano;Nord-est;Veneto;Treviso
 Gorgo al Monticano;Nord-est;Veneto;Treviso
 Istrana;Nord-est;Veneto;Treviso
 Loria;Nord-est;Veneto;Treviso
-Mansuè;Nord-est;Veneto;Treviso
+Mansue';Nord-est;Veneto;Treviso
 Mareno di Piave;Nord-est;Veneto;Treviso
 Maser;Nord-est;Veneto;Treviso
 Maserada sul Piave;Nord-est;Veneto;Treviso
@@ -3382,7 +3382,7 @@ Pederobba;Nord-est;Veneto;Treviso
 Pieve di Soligo;Nord-est;Veneto;Treviso
 Ponte di Piave;Nord-est;Veneto;Treviso
 Ponzano Veneto;Nord-est;Veneto;Treviso
-Portobuffolè;Nord-est;Veneto;Treviso
+Portobuffole';Nord-est;Veneto;Treviso
 Possagno;Nord-est;Veneto;Treviso
 Povegliano;Nord-est;Veneto;Treviso
 Preganziol;Nord-est;Veneto;Treviso
@@ -3435,7 +3435,7 @@ Eraclea;Nord-est;Veneto;Venezia
 Fiesso d'Artico;Nord-est;Veneto;Venezia
 Fossalta di Piave;Nord-est;Veneto;Venezia
 Fossalta di Portogruaro;Nord-est;Veneto;Venezia
-Fossò;Nord-est;Veneto;Venezia
+Fosso';Nord-est;Veneto;Venezia
 Gruaro;Nord-est;Veneto;Venezia
 Jesolo;Nord-est;Veneto;Venezia
 Marcon;Nord-est;Veneto;Venezia
@@ -3451,11 +3451,11 @@ Portogruaro;Nord-est;Veneto;Venezia
 Pramaggiore;Nord-est;Veneto;Venezia
 Quarto d'Altino;Nord-est;Veneto;Venezia
 Salzano;Nord-est;Veneto;Venezia
-San Donà di Piave;Nord-est;Veneto;Venezia
+San Dona' di Piave;Nord-est;Veneto;Venezia
 San Michele al Tagliamento;Nord-est;Veneto;Venezia
 Santa Maria di Sala;Nord-est;Veneto;Venezia
 San Stino di Livenza;Nord-est;Veneto;Venezia
-Scorzè;Nord-est;Veneto;Venezia
+Scorze';Nord-est;Veneto;Venezia
 Spinea;Nord-est;Veneto;Venezia
 Stra;Nord-est;Veneto;Venezia
 Teglio Veneto;Nord-est;Veneto;Venezia
@@ -3467,7 +3467,7 @@ Abano Terme;Nord-est;Veneto;Padova
 Agna;Nord-est;Veneto;Padova
 Albignasego;Nord-est;Veneto;Padova
 Anguillara Veneta;Nord-est;Veneto;Padova
-Arquà Petrarca;Nord-est;Veneto;Padova
+Arqua' Petrarca;Nord-est;Veneto;Padova
 Arre;Nord-est;Veneto;Padova
 Arzergrande;Nord-est;Veneto;Padova
 Bagnoli di Sopra;Nord-est;Veneto;Padova
@@ -3508,7 +3508,7 @@ Legnaro;Nord-est;Veneto;Padova
 Limena;Nord-est;Veneto;Padova
 Loreggia;Nord-est;Veneto;Padova
 Lozzo Atestino;Nord-est;Veneto;Padova
-Maserà di Padova;Nord-est;Veneto;Padova
+Masera' di Padova;Nord-est;Veneto;Padova
 Masi;Nord-est;Veneto;Padova
 Massanzago;Nord-est;Veneto;Padova
 Megliadino San Vitale;Nord-est;Veneto;Padova
@@ -3528,7 +3528,7 @@ Piove di Sacco;Nord-est;Veneto;Padova
 Polverara;Nord-est;Veneto;Padova
 Ponso;Nord-est;Veneto;Padova
 Pontelongo;Nord-est;Veneto;Padova
-Ponte San Nicolò;Nord-est;Veneto;Padova
+Ponte San Nicolo';Nord-est;Veneto;Padova
 Pozzonovo;Nord-est;Veneto;Padova
 Rovolon;Nord-est;Veneto;Padova
 Rubano;Nord-est;Veneto;Padova
@@ -3567,7 +3567,7 @@ Due Carrare;Nord-est;Veneto;Padova
 Borgo Veneto;Nord-est;Veneto;Padova
 Adria;Nord-est;Veneto;Rovigo
 Ariano nel Polesine;Nord-est;Veneto;Rovigo
-Arquà Polesine;Nord-est;Veneto;Rovigo
+Arqua' Polesine;Nord-est;Veneto;Rovigo
 Badia Polesine;Nord-est;Veneto;Rovigo
 Bagnolo di Po;Nord-est;Veneto;Rovigo
 Bergantino;Nord-est;Veneto;Rovigo
@@ -3751,7 +3751,7 @@ Fiumicello Villa Vicentina;Nord-est;Friuli-Venezia Giulia;Udine
 Treppo Ligosullo;Nord-est;Friuli-Venezia Giulia;Udine
 Capriva del Friuli;Nord-est;Friuli-Venezia Giulia;Gorizia
 Cormons;Nord-est;Friuli-Venezia Giulia;Gorizia
-Doberdò del Lago;Nord-est;Friuli-Venezia Giulia;Gorizia
+Doberdo' del Lago;Nord-est;Friuli-Venezia Giulia;Gorizia
 Dolegna del Collio;Nord-est;Friuli-Venezia Giulia;Gorizia
 Farra d'Isonzo;Nord-est;Friuli-Venezia Giulia;Gorizia
 Fogliano Redipuglia;Nord-est;Friuli-Venezia Giulia;Gorizia
@@ -3874,7 +3874,7 @@ Pigna;Nord-ovest;Liguria;Imperia
 Pompeiana;Nord-ovest;Liguria;Imperia
 Pontedassio;Nord-ovest;Liguria;Imperia
 Pornassio;Nord-ovest;Liguria;Imperia
-Prelà;Nord-ovest;Liguria;Imperia
+Prela';Nord-ovest;Liguria;Imperia
 Ranzo;Nord-ovest;Liguria;Imperia
 Rezzo;Nord-ovest;Liguria;Imperia
 Riva Ligure;Nord-ovest;Liguria;Imperia
@@ -4022,7 +4022,7 @@ Santa Margherita Ligure;Nord-ovest;Liguria;Genova
 Sant'Olcese;Nord-ovest;Liguria;Genova
 Santo Stefano d'Aveto;Nord-ovest;Liguria;Genova
 Savignone;Nord-ovest;Liguria;Genova
-Serra Riccò;Nord-ovest;Liguria;Genova
+Serra Ricco';Nord-ovest;Liguria;Genova
 Sestri Levante;Nord-ovest;Liguria;Genova
 Sori;Nord-ovest;Liguria;Genova
 Tiglieto;Nord-ovest;Liguria;Genova
@@ -4054,7 +4054,7 @@ Monterosso al Mare;Nord-ovest;Liguria;La Spezia
 Luni;Nord-ovest;Liguria;La Spezia
 Pignone;Nord-ovest;Liguria;La Spezia
 Portovenere;Nord-ovest;Liguria;La Spezia
-Riccò del Golfo di Spezia;Nord-ovest;Liguria;La Spezia
+Ricco' del Golfo di Spezia;Nord-ovest;Liguria;La Spezia
 Riomaggiore;Nord-ovest;Liguria;La Spezia
 Rocchetta di Vara;Nord-ovest;Liguria;La Spezia
 Santo Stefano di Magra;Nord-ovest;Liguria;La Spezia
@@ -4337,36 +4337,36 @@ Riolo Terme;Nord-est;Emilia-Romagna;Ravenna
 Russi;Nord-est;Emilia-Romagna;Ravenna
 Sant'Agata sul Santerno;Nord-est;Emilia-Romagna;Ravenna
 Solarolo;Nord-est;Emilia-Romagna;Ravenna
-Bagno di Romagna;Nord-est;Emilia-Romagna;Forlì-Cesena
-Bertinoro;Nord-est;Emilia-Romagna;Forlì-Cesena
-Borghi;Nord-est;Emilia-Romagna;Forlì-Cesena
-Castrocaro Terme e Terra del Sole;Nord-est;Emilia-Romagna;Forlì-Cesena
-Cesena;Nord-est;Emilia-Romagna;Forlì-Cesena
-Cesenatico;Nord-est;Emilia-Romagna;Forlì-Cesena
-Civitella di Romagna;Nord-est;Emilia-Romagna;Forlì-Cesena
-Dovadola;Nord-est;Emilia-Romagna;Forlì-Cesena
-Forlì;Nord-est;Emilia-Romagna;Forlì-Cesena
-Forlimpopoli;Nord-est;Emilia-Romagna;Forlì-Cesena
-Galeata;Nord-est;Emilia-Romagna;Forlì-Cesena
-Gambettola;Nord-est;Emilia-Romagna;Forlì-Cesena
-Gatteo;Nord-est;Emilia-Romagna;Forlì-Cesena
-Longiano;Nord-est;Emilia-Romagna;Forlì-Cesena
-Meldola;Nord-est;Emilia-Romagna;Forlì-Cesena
-Mercato Saraceno;Nord-est;Emilia-Romagna;Forlì-Cesena
-Modigliana;Nord-est;Emilia-Romagna;Forlì-Cesena
-Montiano;Nord-est;Emilia-Romagna;Forlì-Cesena
-Portico e San Benedetto;Nord-est;Emilia-Romagna;Forlì-Cesena
-Predappio;Nord-est;Emilia-Romagna;Forlì-Cesena
-Premilcuore;Nord-est;Emilia-Romagna;Forlì-Cesena
-Rocca San Casciano;Nord-est;Emilia-Romagna;Forlì-Cesena
-Roncofreddo;Nord-est;Emilia-Romagna;Forlì-Cesena
-San Mauro Pascoli;Nord-est;Emilia-Romagna;Forlì-Cesena
-Santa Sofia;Nord-est;Emilia-Romagna;Forlì-Cesena
-Sarsina;Nord-est;Emilia-Romagna;Forlì-Cesena
-Savignano sul Rubicone;Nord-est;Emilia-Romagna;Forlì-Cesena
-Sogliano al Rubicone;Nord-est;Emilia-Romagna;Forlì-Cesena
-Tredozio;Nord-est;Emilia-Romagna;Forlì-Cesena
-Verghereto;Nord-est;Emilia-Romagna;Forlì-Cesena
+Bagno di Romagna;Nord-est;Emilia-Romagna;Forli'-Cesena
+Bertinoro;Nord-est;Emilia-Romagna;Forli'-Cesena
+Borghi;Nord-est;Emilia-Romagna;Forli'-Cesena
+Castrocaro Terme e Terra del Sole;Nord-est;Emilia-Romagna;Forli'-Cesena
+Cesena;Nord-est;Emilia-Romagna;Forli'-Cesena
+Cesenatico;Nord-est;Emilia-Romagna;Forli'-Cesena
+Civitella di Romagna;Nord-est;Emilia-Romagna;Forli'-Cesena
+Dovadola;Nord-est;Emilia-Romagna;Forli'-Cesena
+Forli';Nord-est;Emilia-Romagna;Forli'-Cesena
+Forlimpopoli;Nord-est;Emilia-Romagna;Forli'-Cesena
+Galeata;Nord-est;Emilia-Romagna;Forli'-Cesena
+Gambettola;Nord-est;Emilia-Romagna;Forli'-Cesena
+Gatteo;Nord-est;Emilia-Romagna;Forli'-Cesena
+Longiano;Nord-est;Emilia-Romagna;Forli'-Cesena
+Meldola;Nord-est;Emilia-Romagna;Forli'-Cesena
+Mercato Saraceno;Nord-est;Emilia-Romagna;Forli'-Cesena
+Modigliana;Nord-est;Emilia-Romagna;Forli'-Cesena
+Montiano;Nord-est;Emilia-Romagna;Forli'-Cesena
+Portico e San Benedetto;Nord-est;Emilia-Romagna;Forli'-Cesena
+Predappio;Nord-est;Emilia-Romagna;Forli'-Cesena
+Premilcuore;Nord-est;Emilia-Romagna;Forli'-Cesena
+Rocca San Casciano;Nord-est;Emilia-Romagna;Forli'-Cesena
+Roncofreddo;Nord-est;Emilia-Romagna;Forli'-Cesena
+San Mauro Pascoli;Nord-est;Emilia-Romagna;Forli'-Cesena
+Santa Sofia;Nord-est;Emilia-Romagna;Forli'-Cesena
+Sarsina;Nord-est;Emilia-Romagna;Forli'-Cesena
+Savignano sul Rubicone;Nord-est;Emilia-Romagna;Forli'-Cesena
+Sogliano al Rubicone;Nord-est;Emilia-Romagna;Forli'-Cesena
+Tredozio;Nord-est;Emilia-Romagna;Forli'-Cesena
+Verghereto;Nord-est;Emilia-Romagna;Forli'-Cesena
 Bellaria-Igea Marina;Nord-est;Emilia-Romagna;Rimini
 Cattolica;Nord-est;Emilia-Romagna;Rimini
 Coriano;Nord-est;Emilia-Romagna;Rimini
@@ -4567,7 +4567,7 @@ Bucine;Centro;Toscana;Arezzo
 Capolona;Centro;Toscana;Arezzo
 Caprese Michelangelo;Centro;Toscana;Arezzo
 Castel Focognano;Centro;Toscana;Arezzo
-Castel San Niccolò;Centro;Toscana;Arezzo
+Castel San Niccolo';Centro;Toscana;Arezzo
 Castiglion Fibocchi;Centro;Toscana;Arezzo
 Castiglion Fiorentino;Centro;Toscana;Arezzo
 Cavriglia;Centro;Toscana;Arezzo
@@ -4592,7 +4592,7 @@ Sestino;Centro;Toscana;Arezzo
 Subbiano;Centro;Toscana;Arezzo
 Talla;Centro;Toscana;Arezzo
 Terranuova Bracciolini;Centro;Toscana;Arezzo
-Castelfranco Piandiscò;Centro;Toscana;Arezzo
+Castelfranco Piandisco';Centro;Toscana;Arezzo
 Pratovecchio Stia;Centro;Toscana;Arezzo
 Laterina Pergine Valdarno;Centro;Toscana;Arezzo
 Abbadia San Salvatore;Centro;Toscana;Siena
@@ -4676,8 +4676,8 @@ Castel Ritaldi;Centro;Umbria;Perugia
 Castiglione del Lago;Centro;Umbria;Perugia
 Cerreto di Spoleto;Centro;Umbria;Perugia
 Citerna;Centro;Umbria;Perugia
-Città della Pieve;Centro;Umbria;Perugia
-Città di Castello;Centro;Umbria;Perugia
+Citta' della Pieve;Centro;Umbria;Perugia
+Citta' di Castello;Centro;Umbria;Perugia
 Collazzone;Centro;Umbria;Perugia
 Corciano;Centro;Umbria;Perugia
 Costacciaro;Centro;Umbria;Perugia
@@ -5529,7 +5529,7 @@ Carpineto della Nora;Sud;Abruzzo;Pescara
 Castiglione a Casauria;Sud;Abruzzo;Pescara
 Catignano;Sud;Abruzzo;Pescara
 Cepagatti;Sud;Abruzzo;Pescara
-Città Sant'Angelo;Sud;Abruzzo;Pescara
+Citta' Sant'Angelo;Sud;Abruzzo;Pescara
 Civitaquana;Sud;Abruzzo;Pescara
 Civitella Casanova;Sud;Abruzzo;Pescara
 Collecorvino;Sud;Abruzzo;Pescara
@@ -5771,7 +5771,7 @@ Civitanova del Sannio;Sud;Molise;Isernia
 Colli a Volturno;Sud;Molise;Isernia
 Conca Casale;Sud;Molise;Isernia
 Filignano;Sud;Molise;Isernia
-Forlì del Sannio;Sud;Molise;Isernia
+Forli' del Sannio;Sud;Molise;Isernia
 Fornelli;Sud;Molise;Isernia
 Frosolone;Sud;Molise;Isernia
 Isernia;Sud;Molise;Isernia
@@ -6075,7 +6075,7 @@ Vico Equense;Sud;Campania;Napoli
 Villaricca;Sud;Campania;Napoli
 Visciano;Sud;Campania;Napoli
 Volla;Sud;Campania;Napoli
-Santa Maria la Carità;Sud;Campania;Napoli
+Santa Maria la Carita';Sud;Campania;Napoli
 Trecase;Sud;Campania;Napoli
 Massa di Somma;Sud;Campania;Napoli
 Aiello del Sabato;Sud;Campania;Avellino
@@ -6556,7 +6556,7 @@ Monteroni di Lecce;Sud;Puglia;Lecce
 Montesano Salentino;Sud;Puglia;Lecce
 Morciano di Leuca;Sud;Puglia;Lecce
 Muro Leccese;Sud;Puglia;Lecce
-Nardò;Sud;Puglia;Lecce
+Nardo';Sud;Puglia;Lecce
 Neviano;Sud;Puglia;Lecce
 Nociglia;Sud;Puglia;Lecce
 Novoli;Sud;Puglia;Lecce
@@ -6564,7 +6564,7 @@ Ortelle;Sud;Puglia;Lecce
 Otranto;Sud;Puglia;Lecce
 Palmariggi;Sud;Puglia;Lecce
 Parabita;Sud;Puglia;Lecce
-Patù;Sud;Puglia;Lecce
+Patu';Sud;Puglia;Lecce
 Poggiardo;Sud;Puglia;Lecce
 Presicce;Sud;Puglia;Lecce
 Racale;Sud;Puglia;Lecce
@@ -6578,7 +6578,7 @@ Sannicola;Sud;Puglia;Lecce
 San Pietro in Lama;Sud;Puglia;Lecce
 Santa Cesarea Terme;Sud;Puglia;Lecce
 Scorrano;Sud;Puglia;Lecce
-Seclì;Sud;Puglia;Lecce
+Secli';Sud;Puglia;Lecce
 Sogliano Cavour;Sud;Puglia;Lecce
 Soleto;Sud;Puglia;Lecce
 Specchia;Sud;Puglia;Lecce
@@ -6811,7 +6811,7 @@ Longobardi;Sud;Calabria;Cosenza
 Longobucco;Sud;Calabria;Cosenza
 Lungro;Sud;Calabria;Cosenza
 Luzzi;Sud;Calabria;Cosenza
-Maierà;Sud;Calabria;Cosenza
+Maiera';Sud;Calabria;Cosenza
 Malito;Sud;Calabria;Cosenza
 Malvito;Sud;Calabria;Cosenza
 Mandatoriccio;Sud;Calabria;Cosenza
@@ -6943,7 +6943,7 @@ Olivadi;Sud;Calabria;Catanzaro
 Palermiti;Sud;Calabria;Catanzaro
 Pentone;Sud;Calabria;Catanzaro
 Petrizzi;Sud;Calabria;Catanzaro
-Petronà;Sud;Calabria;Catanzaro
+Petrona';Sud;Calabria;Catanzaro
 Pianopoli;Sud;Calabria;Catanzaro
 Platania;Sud;Calabria;Catanzaro
 San Floro;Sud;Calabria;Catanzaro
@@ -6966,7 +6966,7 @@ Soverato;Sud;Calabria;Catanzaro
 Soveria Mannelli;Sud;Calabria;Catanzaro
 Soveria Simeri;Sud;Calabria;Catanzaro
 Squillace;Sud;Calabria;Catanzaro
-Stalettì;Sud;Calabria;Catanzaro
+Staletti';Sud;Calabria;Catanzaro
 Taverna;Sud;Calabria;Catanzaro
 Tiriolo;Sud;Calabria;Catanzaro
 Torre di Ruggiero;Sud;Calabria;Catanzaro
@@ -6998,7 +6998,7 @@ Cardeto;Sud;Calabria;Reggio Calabria
 Careri;Sud;Calabria;Reggio Calabria
 Casignana;Sud;Calabria;Reggio Calabria
 Caulonia;Sud;Calabria;Reggio Calabria
-Ciminà;Sud;Calabria;Reggio Calabria
+Cimina';Sud;Calabria;Reggio Calabria
 Cinquefrondi;Sud;Calabria;Reggio Calabria
 Cittanova;Sud;Calabria;Reggio Calabria
 Condofuri;Sud;Calabria;Reggio Calabria
@@ -7020,7 +7020,7 @@ Mammola;Sud;Calabria;Reggio Calabria
 Marina di Gioiosa Ionica;Sud;Calabria;Reggio Calabria
 Maropati;Sud;Calabria;Reggio Calabria
 Martone;Sud;Calabria;Reggio Calabria
-Melicuccà;Sud;Calabria;Reggio Calabria
+Melicucca';Sud;Calabria;Reggio Calabria
 Melicucco;Sud;Calabria;Reggio Calabria
 Melito di Porto Salvo;Sud;Calabria;Reggio Calabria
 Molochio;Sud;Calabria;Reggio Calabria
@@ -7032,7 +7032,7 @@ Palizzi;Sud;Calabria;Reggio Calabria
 Palmi;Sud;Calabria;Reggio Calabria
 Pazzano;Sud;Calabria;Reggio Calabria
 Placanica;Sud;Calabria;Reggio Calabria
-Platì;Sud;Calabria;Reggio Calabria
+Plati';Sud;Calabria;Reggio Calabria
 Polistena;Sud;Calabria;Reggio Calabria
 Portigliola;Sud;Calabria;Reggio Calabria
 Reggio di Calabria;Sud;Calabria;Reggio Calabria
@@ -7047,7 +7047,7 @@ San Giorgio Morgeto;Sud;Calabria;Reggio Calabria
 San Giovanni di Gerace;Sud;Calabria;Reggio Calabria
 San Lorenzo;Sud;Calabria;Reggio Calabria
 San Luca;Sud;Calabria;Reggio Calabria
-San Pietro di Caridà;Sud;Calabria;Reggio Calabria
+San Pietro di Carida';Sud;Calabria;Reggio Calabria
 San Procopio;Sud;Calabria;Reggio Calabria
 San Roberto;Sud;Calabria;Reggio Calabria
 Santa Cristina d'Aspromonte;Sud;Calabria;Reggio Calabria
@@ -7076,8 +7076,8 @@ Carfizzi;Sud;Calabria;Crotone
 Casabona;Sud;Calabria;Crotone
 Castelsilano;Sud;Calabria;Crotone
 Cerenzia;Sud;Calabria;Crotone
-Cirò;Sud;Calabria;Crotone
-Cirò Marina;Sud;Calabria;Crotone
+Ciro';Sud;Calabria;Crotone
+Ciro' Marina;Sud;Calabria;Crotone
 Cotronei;Sud;Calabria;Crotone
 Crotone;Sud;Calabria;Crotone
 Crucoli;Sud;Calabria;Crotone
@@ -7103,7 +7103,7 @@ Briatico;Sud;Calabria;Vibo Valentia
 Brognaturo;Sud;Calabria;Vibo Valentia
 Capistrano;Sud;Calabria;Vibo Valentia
 Cessaniti;Sud;Calabria;Vibo Valentia
-Dasà;Sud;Calabria;Vibo Valentia
+Dasa';Sud;Calabria;Vibo Valentia
 Dinami;Sud;Calabria;Vibo Valentia
 Drapia;Sud;Calabria;Vibo Valentia
 Fabrizia;Sud;Calabria;Vibo Valentia
@@ -7196,8 +7196,8 @@ Castelbuono;Isole;Sicilia;Palermo
 Casteldaccia;Isole;Sicilia;Palermo
 Castellana Sicula;Isole;Sicilia;Palermo
 Castronovo di Sicilia;Isole;Sicilia;Palermo
-Cefalà Diana;Isole;Sicilia;Palermo
-Cefalù;Isole;Sicilia;Palermo
+Cefala' Diana;Isole;Sicilia;Palermo
+Cefalu';Isole;Sicilia;Palermo
 Cerda;Isole;Sicilia;Palermo
 Chiusa Sclafani;Isole;Sicilia;Palermo
 Ciminna;Isole;Sicilia;Palermo
@@ -7254,11 +7254,11 @@ Villafrati;Isole;Sicilia;Palermo
 Scillato;Isole;Sicilia;Palermo
 Blufi;Isole;Sicilia;Palermo
 Alcara li Fusi;Isole;Sicilia;Messina
-Alì;Isole;Sicilia;Messina
-Alì Terme;Isole;Sicilia;Messina
+Ali';Isole;Sicilia;Messina
+Ali' Terme;Isole;Sicilia;Messina
 Antillo;Isole;Sicilia;Messina
 Barcellona Pozzo di Gotto;Isole;Sicilia;Messina
-Basicò;Isole;Sicilia;Messina
+Basico';Isole;Sicilia;Messina
 Brolo;Isole;Sicilia;Messina
 Capizzi;Isole;Sicilia;Messina
 Capo d'Orlando;Isole;Sicilia;Messina
@@ -7269,16 +7269,16 @@ Castel di Lucio;Isole;Sicilia;Messina
 Castell'Umberto;Isole;Sicilia;Messina
 Castelmola;Isole;Sicilia;Messina
 Castroreale;Isole;Sicilia;Messina
-Cesarò;Isole;Sicilia;Messina
-Condrò;Isole;Sicilia;Messina
+Cesaro';Isole;Sicilia;Messina
+Condro';Isole;Sicilia;Messina
 Falcone;Isole;Sicilia;Messina
 Ficarra;Isole;Sicilia;Messina
 Fiumedinisi;Isole;Sicilia;Messina
 Floresta;Isole;Sicilia;Messina
 Fondachelli-Fantina;Isole;Sicilia;Messina
-Forza d'Agrò;Isole;Sicilia;Messina
+Forza d'Agro';Isole;Sicilia;Messina
 Francavilla di Sicilia;Isole;Sicilia;Messina
-Frazzanò;Isole;Sicilia;Messina
+Frazzano';Isole;Sicilia;Messina
 Furci Siculo;Isole;Sicilia;Messina
 Furnari;Isole;Sicilia;Messina
 Gaggi;Isole;Sicilia;Messina
@@ -7287,7 +7287,7 @@ Gallodoro;Isole;Sicilia;Messina
 Giardini-Naxos;Isole;Sicilia;Messina
 Gioiosa Marea;Isole;Sicilia;Messina
 Graniti;Isole;Sicilia;Messina
-Gualtieri Sicaminò;Isole;Sicilia;Messina
+Gualtieri Sicamino';Isole;Sicilia;Messina
 Itala;Isole;Sicilia;Messina
 Leni;Isole;Sicilia;Messina
 Letojanni;Isole;Sicilia;Messina
@@ -7298,8 +7298,8 @@ Longi;Isole;Sicilia;Messina
 Malfa;Isole;Sicilia;Messina
 Malvagna;Isole;Sicilia;Messina
 Mandanici;Isole;Sicilia;Messina
-Mazzarrà Sant'Andrea;Isole;Sicilia;Messina
-Merì;Isole;Sicilia;Messina
+Mazzarra' Sant'Andrea;Isole;Sicilia;Messina
+Meri';Isole;Sicilia;Messina
 Messina;Isole;Sicilia;Messina
 Milazzo;Isole;Sicilia;Messina
 Militello Rosmarino;Isole;Sicilia;Messina
@@ -7327,7 +7327,7 @@ Roccafiorita;Isole;Sicilia;Messina
 Roccalumera;Isole;Sicilia;Messina
 Roccavaldina;Isole;Sicilia;Messina
 Roccella Valdemone;Isole;Sicilia;Messina
-Rodì Milici;Isole;Sicilia;Messina
+Rodi' Milici;Isole;Sicilia;Messina
 Rometta;Isole;Sicilia;Messina
 San Filippo del Mela;Isole;Sicilia;Messina
 San Fratello;Isole;Sicilia;Messina
@@ -7371,7 +7371,7 @@ Caltabellotta;Isole;Sicilia;Agrigento
 Camastra;Isole;Sicilia;Agrigento
 Cammarata;Isole;Sicilia;Agrigento
 Campobello di Licata;Isole;Sicilia;Agrigento
-Canicattì;Isole;Sicilia;Agrigento
+Canicatti';Isole;Sicilia;Agrigento
 Casteltermini;Isole;Sicilia;Agrigento
 Castrofilippo;Isole;Sicilia;Agrigento
 Cattolica Eraclea;Isole;Sicilia;Agrigento
@@ -7478,7 +7478,7 @@ Misterbianco;Isole;Sicilia;Catania
 Motta Sant'Anastasia;Isole;Sicilia;Catania
 Nicolosi;Isole;Sicilia;Catania
 Palagonia;Isole;Sicilia;Catania
-Paternò;Isole;Sicilia;Catania
+Paterno';Isole;Sicilia;Catania
 Pedara;Isole;Sicilia;Catania
 Piedimonte Etneo;Isole;Sicilia;Catania
 Raddusa;Isole;Sicilia;Catania
@@ -7538,7 +7538,7 @@ Sortino;Isole;Sicilia;Siracusa
 Portopalo di Capo Passero;Isole;Sicilia;Siracusa
 Priolo Gargallo;Isole;Sicilia;Siracusa
 Aggius;Isole;Sardegna;Sassari
-Alà dei Sardi;Isole;Sardegna;Sassari
+Ala' dei Sardi;Isole;Sardegna;Sassari
 Alghero;Isole;Sardegna;Sassari
 Anela;Isole;Sardegna;Sassari
 Ardara;Isole;Sardegna;Sassari
@@ -7553,7 +7553,7 @@ Bonorva;Isole;Sardegna;Sassari
 Bortigiadas;Isole;Sardegna;Sassari
 Borutta;Isole;Sardegna;Sassari
 Bottidda;Isole;Sardegna;Sassari
-Buddusò;Isole;Sardegna;Sassari
+Budduso';Isole;Sardegna;Sassari
 Bultei;Isole;Sardegna;Sassari
 Bulzi;Isole;Sardegna;Sassari
 Burgos;Isole;Sardegna;Sassari
@@ -7580,7 +7580,7 @@ Monteleone Rocca Doria;Isole;Sardegna;Sassari
 Monti;Isole;Sardegna;Sassari
 Mores;Isole;Sardegna;Sassari
 Muros;Isole;Sardegna;Sassari
-Nughedu San Nicolò;Isole;Sardegna;Sassari
+Nughedu San Nicolo';Isole;Sardegna;Sassari
 Nule;Isole;Sardegna;Sassari
 Nulvi;Isole;Sardegna;Sassari
 Olbia;Isole;Sardegna;Sassari
@@ -7610,7 +7610,7 @@ Tempio Pausania;Isole;Sardegna;Sassari
 Thiesi;Isole;Sardegna;Sassari
 Tissi;Isole;Sardegna;Sassari
 Torralba;Isole;Sardegna;Sassari
-Trinità d'Agultu e Vignola;Isole;Sardegna;Sassari
+Trinita' d'Agultu e Vignola;Isole;Sardegna;Sassari
 Tula;Isole;Sardegna;Sassari
 Uri;Isole;Sardegna;Sassari
 Usini;Isole;Sardegna;Sassari
@@ -7635,7 +7635,7 @@ Atzara;Isole;Sardegna;Nuoro
 Austis;Isole;Sardegna;Nuoro
 Bari Sardo;Isole;Sardegna;Nuoro
 Baunei;Isole;Sardegna;Nuoro
-Belvì;Isole;Sardegna;Nuoro
+Belvi';Isole;Sardegna;Nuoro
 Birori;Isole;Sardegna;Nuoro
 Bitti;Isole;Sardegna;Nuoro
 Bolotana;Isole;Sardegna;Nuoro
@@ -7648,7 +7648,7 @@ Elini;Isole;Sardegna;Nuoro
 Fonni;Isole;Sardegna;Nuoro
 Gadoni;Isole;Sardegna;Nuoro
 Gairo;Isole;Sardegna;Nuoro
-Galtellì;Isole;Sardegna;Nuoro
+Galtelli';Isole;Sardegna;Nuoro
 Gavoi;Isole;Sardegna;Nuoro
 Girasole;Isole;Sardegna;Nuoro
 Ilbono;Isole;Sardegna;Nuoro
@@ -7658,7 +7658,7 @@ Lanusei;Isole;Sardegna;Nuoro
 Lei;Isole;Sardegna;Nuoro
 Loceri;Isole;Sardegna;Nuoro
 Loculi;Isole;Sardegna;Nuoro
-Lodè;Isole;Sardegna;Nuoro
+Lode';Isole;Sardegna;Nuoro
 Lotzorai;Isole;Sardegna;Nuoro
 Lula;Isole;Sardegna;Nuoro
 Macomer;Isole;Sardegna;Nuoro
@@ -7669,7 +7669,7 @@ Nuoro;Isole;Sardegna;Nuoro
 Oliena;Isole;Sardegna;Nuoro
 Ollolai;Isole;Sardegna;Nuoro
 Olzai;Isole;Sardegna;Nuoro
-Onanì;Isole;Sardegna;Nuoro
+Onani';Isole;Sardegna;Nuoro
 Onifai;Isole;Sardegna;Nuoro
 Oniferi;Isole;Sardegna;Nuoro
 Orani;Isole;Sardegna;Nuoro
@@ -7694,8 +7694,8 @@ Tertenia;Isole;Sardegna;Nuoro
 Teti;Isole;Sardegna;Nuoro
 Tiana;Isole;Sardegna;Nuoro
 Tonara;Isole;Sardegna;Nuoro
-Torpè;Isole;Sardegna;Nuoro
-Tortolì;Isole;Sardegna;Nuoro
+Torpe';Isole;Sardegna;Nuoro
+Tortoli';Isole;Sardegna;Nuoro
 Triei;Isole;Sardegna;Nuoro
 Ulassai;Isole;Sardegna;Nuoro
 Urzulei;Isole;Sardegna;Nuoro
@@ -7733,7 +7733,7 @@ Baradili;Isole;Sardegna;Oristano
 Baratili San Pietro;Isole;Sardegna;Oristano
 Baressa;Isole;Sardegna;Oristano
 Bauladu;Isole;Sardegna;Oristano
-Bidonì;Isole;Sardegna;Oristano
+Bidoni';Isole;Sardegna;Oristano
 Bonarcado;Isole;Sardegna;Oristano
 Boroneddu;Isole;Sardegna;Oristano
 Busachi;Isole;Sardegna;Oristano
@@ -7742,7 +7742,7 @@ Cuglieri;Isole;Sardegna;Oristano
 Fordongianus;Isole;Sardegna;Oristano
 Ghilarza;Isole;Sardegna;Oristano
 Gonnoscodina;Isole;Sardegna;Oristano
-Gonnosnò;Isole;Sardegna;Oristano
+Gonnosno';Isole;Sardegna;Oristano
 Gonnostramatza;Isole;Sardegna;Oristano
 Marrubiu;Isole;Sardegna;Oristano
 Masullas;Isole;Sardegna;Oristano
@@ -7765,7 +7765,7 @@ Pompu;Isole;Sardegna;Oristano
 Riola Sardo;Isole;Sardegna;Oristano
 Ruinas;Isole;Sardegna;Oristano
 Samugheo;Isole;Sardegna;Oristano
-San Nicolò d'Arcidano;Isole;Sardegna;Oristano
+San Nicolo' d'Arcidano;Isole;Sardegna;Oristano
 Santa Giusta;Isole;Sardegna;Oristano
 Villa Sant'Antonio;Isole;Sardegna;Oristano
 Santu Lussurgiu;Isole;Sardegna;Oristano
@@ -7787,7 +7787,7 @@ Tadasuni;Isole;Sardegna;Oristano
 Terralba;Isole;Sardegna;Oristano
 Tramatza;Isole;Sardegna;Oristano
 Tresnuraghes;Isole;Sardegna;Oristano
-Ulà Tirso;Isole;Sardegna;Oristano
+Ula' Tirso;Isole;Sardegna;Oristano
 Uras;Isole;Sardegna;Oristano
 Usellus;Isole;Sardegna;Oristano
 Villanova Truschedu;Isole;Sardegna;Oristano
@@ -7797,7 +7797,7 @@ Zeddiani;Isole;Sardegna;Oristano
 Zerfaliu;Isole;Sardegna;Oristano
 Siapiccia;Isole;Sardegna;Oristano
 Curcuris;Isole;Sardegna;Oristano
-Soddì;Isole;Sardegna;Oristano
+Soddi';Isole;Sardegna;Oristano
 Bosa;Isole;Sardegna;Oristano
 Flussio;Isole;Sardegna;Oristano
 Laconi;Isole;Sardegna;Oristano
@@ -7870,7 +7870,7 @@ Samatzai;Isole;Sardegna;Sud Sardegna
 San Basilio;Isole;Sardegna;Sud Sardegna
 San Gavino Monreale;Isole;Sardegna;Sud Sardegna
 San Giovanni Suergiu;Isole;Sardegna;Sud Sardegna
-San Nicolò Gerrei;Isole;Sardegna;Sud Sardegna
+San Nicolo' Gerrei;Isole;Sardegna;Sud Sardegna
 San Sperate;Isole;Sardegna;Sud Sardegna
 San Vito;Isole;Sardegna;Sud Sardegna
 Sanluri;Isole;Sardegna;Sud Sardegna
@@ -7881,7 +7881,7 @@ Sant'Antioco;Isole;Sardegna;Sud Sardegna
 Sardara;Isole;Sardegna;Sud Sardegna
 Segariu;Isole;Sardegna;Sud Sardegna
 Selegas;Isole;Sardegna;Sud Sardegna
-Senorbì;Isole;Sardegna;Sud Sardegna
+Senorbi';Isole;Sardegna;Sud Sardegna
 Serdiana;Isole;Sardegna;Sud Sardegna
 Serramanna;Isole;Sardegna;Sud Sardegna
 Serrenti;Isole;Sardegna;Sud Sardegna
