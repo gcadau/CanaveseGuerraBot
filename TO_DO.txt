@@ -5,6 +5,7 @@ varianti
 promozione
 skills fb
 idee foglietto
+Fanta
 
 ! SPEC pagina
 ! gitHub
