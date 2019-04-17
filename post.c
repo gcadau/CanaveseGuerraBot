@@ -36,6 +36,8 @@ int main(int argc, char** argv)
     strcpy(mese, argv[2]);
     anno = atoi(argv[3]);
 
+    int prec;
+    char prec[N];
     int count = 0;
     char line[N];
     while(fgets(line, N, f)!=NULL)
@@ -52,7 +54,16 @@ int main(int argc, char** argv)
                     fgets(line, N, f);
                     char parola[L];
                     sscanf(line, "%s", parola);
-                    if(strcmp(parola, COMUNE)!=0)   fprintf(gg, "%s", line);
+                    if(strcmp(parola, COMUNE)!=0)
+                    {
+                        fprintf(gg, "%s", line);
+                        prec = 0;
+                    }
+                    else
+                    {
+                        prec = 1;
+                        strcpy(prec, line);
+                    }
 
                     incrementaData(&giorno, mese, &anno);
                     count++;
@@ -62,7 +73,9 @@ int main(int argc, char** argv)
         else
         {
             int i;
-            fprintf(h, "Primi 100 comuni per conquiste: %s", line);
+            fprintf(h, "Primi 100 comuni per conquiste: );
+            if(prec)    fprintf(h, "%s", prec);
+            fprintf(h, "%s", line);
             for(i=0; i<LINES-2; i++)
             {
                 fgets(line, N, f);
