@@ -12,8 +12,13 @@
 
 #define OK 3
 
+#define DISTANZA 10
+
 #define COMUNE "Comune"
 
+#define A_CAPO '\n'
+
+void elaboraComune(char* line, char* dest);
 int confrontaData(int g1, char* m1, int a1, int g2, char* m2, int a2);
 void incrementaData(int* g, char* m, int* a);
 int annoBisestile(int* anno);
@@ -36,8 +41,8 @@ int main(int argc, char** argv)
     strcpy(mese, argv[2]);
     anno = atoi(argv[3]);
 
-    int prec;
-    char prec[N];
+    int prec = 0;
+    char Prec[N];
     int count = 0;
     char line[N];
     while(fgets(line, N, f)!=NULL)
@@ -62,7 +67,7 @@ int main(int argc, char** argv)
                     else
                     {
                         prec = 1;
-                        strcpy(prec, line);
+                        strcpy(Prec, line);
                     }
 
                     incrementaData(&giorno, mese, &anno);
@@ -73,14 +78,37 @@ int main(int argc, char** argv)
         else
         {
             int i;
-            fprintf(h, "Primi 100 comuni per conquiste: );
-            if(prec)    fprintf(h, "%s", prec);
-            fprintf(h, "%s", line);
-            for(i=0; i<LINES-2; i++)
+            fprintf(h, "Primi 100 comuni per conquiste.\n\t");
+            int lines = LINES-3;
+            if(prec)
             {
-                fgets(line, N, f);
-                fprintf(h, "%s", line);
+                char pars[N];
+                elaboraComune(Prec, pars);
+                fprintf(h, "%s: ", pars);
+                lines--;
             }
+
+            int m;
+            sscanf(line, "%d", &m);
+            fprintf(h, "%d\n", m);
+
+            lines/=2;
+            for(i=0; i<lines; i++)
+            {
+                fprintf(h, "\t");
+                fgets(line, N, f);
+                char pars[N];
+                elaboraComune(line, pars);
+                fprintf(h, "%s: ", pars);
+
+                fgets(line, N, f);
+                int n;
+                sscanf(line, "%d", &n);
+                fprintf(h, "%d\n", n);
+            }
+
+            fgets(line, N, f);
+            fprintf(h, "%s", line);
             break;
         }
     }
@@ -92,6 +120,27 @@ int main(int argc, char** argv)
     printf("%d %s %d", giorno, mese, anno);
 
     return 0;
+}
+
+void elaboraComune(char* line, char* dest)
+{
+    char pars[N];
+    int i;
+
+    char* pt = line;
+    pt+=DISTANZA;
+
+    i=0;
+    while((*pt)!=A_CAPO)
+    {
+        pars[i] = (*pt);
+        pt++;
+        i++;
+    }
+
+    pars[i] = '\0';
+
+    strcpy(dest, pars);
 }
 
 int confrontaData(int g1, char* m1, int a1, int g2, char* m2, int a2)
