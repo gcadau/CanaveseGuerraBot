@@ -78,25 +78,24 @@ int main(int argc, char** argv)
         else
         {
             int i;
-            fprintf(h, "Primi 100 comuni per conquiste.\n\t");
+            fprintf(h, "Primi 100 comuni per conquiste.\n");
             int lines = LINES-3;
             if(prec)
             {
                 char pars[N];
                 elaboraComune(Prec, pars);
-                fprintf(h, "%s: ", pars);
-                lines--;
+                fprintf(h, "\t%s: ", pars);
+                lines-=2;
+                int m;
+                sscanf(line, "%d", &m);
+                fprintf(h, "%d\n", m);
             }
 
-            int m;
-            sscanf(line, "%d", &m);
-            fprintf(h, "%d\n", m);
-
             lines/=2;
-            for(i=0; i<lines; i++)
+            for(i=0; i<=lines; i++)
             {
                 fprintf(h, "\t");
-                fgets(line, N, f);
+                if(i!=0 || prec)   fgets(line, N, f);
                 char pars[N];
                 elaboraComune(line, pars);
                 fprintf(h, "%s: ", pars);
