@@ -1,0 +1,63 @@
+package stat;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Nazione
+{
+    private Map<String, Comune> comuni;
+    private Map<String, Zona> zone;
+    private Map<String, Regione> regioni;
+    private Map<String, Provincia> province;
+
+    public Nazione()
+    {
+        this.comuni = new HashMap<>();
+        this.province = new HashMap<>();
+        this.regioni = new HashMap<>();
+        this.zone = new HashMap<>();
+    }
+
+    public void add(String c, String p, String r, String z)
+    {
+        Comune comune = new Comune(c);
+
+        Provincia provincia = this.province.get(p);
+        if(provincia==null)
+        {
+            provincia = new Provincia(p);
+            this.province.put(p, provincia);
+        }
+
+        comune.setProvincia(provincia);
+        provincia.addComune(comune);
+
+        Regione regione = this.regioni.get(r);
+        if(regione==null)
+        {
+            regione = new Regione(r);
+            this.regioni.put(r, regione);
+        }
+
+        if(provincia.getRegione()==null)
+        {
+            provincia.setRegione(regione);
+        }
+        regione.addProvincia(provincia);
+
+        Zona zona = this.zone.get(z);
+        if(zona==null)
+        {
+            zona = new Zona(z);
+            this.zone.put(z, zona);
+        }
+
+        if(regione.getZona()==null)
+        {
+            regione.setZona(zona);
+        }
+        zona.addRegione(regione);
+
+        this.comuni.put(c, comune);
+    }
+}
