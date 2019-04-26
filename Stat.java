@@ -15,7 +15,8 @@ public class Stat
     {
         Nazione nazione = new Nazione();
 
-        List<String> comuni = Stat.readData(file);
+        String headers = null;
+        List<String> comuni = Stat.readData(file, headers);
 
         if(comuni==null)    return null;
 
@@ -52,5 +53,71 @@ public class Stat
         String[] headers = lines.remove(0).split(",");
 
         return lines;
+    }
+
+    private static List<String> readData(String file, String h)
+    {
+        List<String> lines = null;
+        try (BufferedReader in = new BufferedReader(new FileReader(file)))
+        {
+            lines = in.lines().collect(toList());
+        }
+        catch (IOException e)
+        {
+            System.err.println(e.getMessage());
+        }
+
+        if (lines == null) return null;
+
+        h = lines.remove(0);
+
+        String[] headers = h.split(",");
+
+        return lines;
+    }
+
+    public static boolean caricaSituazione(Nazione nazione, String file)
+    {
+        List<String> linee = Stat.readData(file);
+
+        if(linee==null)    return false;
+
+        int ok=1;
+        int i=0;
+        Comune c = null;
+        while(i<linee.size())
+        {
+            String linea = linee.get(i);
+            if(!linea.contains("\t"))
+            {
+                String[] pars = linea.split("-");
+                String comune = pars[0].substring(0, pars[0].length()-1);
+                c = nazione.consideraComune(comune);
+                if(c!=null)
+                {
+                    if(linea.contains("controllore"))
+                    {
+                        String[] contr = linea.split(":");
+                        String controllore = contr[1].substring(1);
+                        Comune comuneControllore = nazione.getComune(controllore);
+                        c.setControllore(comuneControllore);
+                    }
+                }
+                else
+                {
+                    ok=0;
+                }
+            }
+            else
+            {
+                String pars = linea.substring(1);
+                Comune conquista = nazione.getComune(pars);
+                if (c!=null)    c.aggiungiConquista(conquista);
+            }
+
+            i++;
+        }
+
+        return (ok==1);
     }
 }

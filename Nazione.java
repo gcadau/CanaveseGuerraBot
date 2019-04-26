@@ -61,6 +61,23 @@ public class Nazione
         this.comuni.put(c, comune);
     }
 
+    public Comune consideraComune(String comune)
+    {
+        Comune c = this.comuni.get(comune);
+        if(c!=null)
+        {
+            c.considera();
+            return c;
+        }
+
+        return null;
+    }
+
+    public Comune getComune(String comune)
+    {
+        return this.comuni.get(comune);
+    }
+
     public void stampaComuni()
     {
         for(Comune c: this.comuni.values())
@@ -112,5 +129,12 @@ public class Nazione
         Zona z = this.zone.get(zona);
 
         z.stampaRegioni();
+    }
+
+    public void stampaConquisteComune(String comune)
+    {
+        Comune c = this.comuni.get(comune);
+
+        c.stampaConquiste();
     }
 }
