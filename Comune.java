@@ -1,4 +1,4 @@
-package stat;
+package nazione;
 
 public class Comune
 {
@@ -30,6 +30,12 @@ public class Comune
     public void setNome(String nome)
     {
         this.nome = nome;
+    }
+
+    @Override
+    public String toString()
+    {
+        return this.nome + "( " + this.provincia.toString() + " )";
     }
 }
 

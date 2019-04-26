@@ -1,4 +1,4 @@
-package stat;
+package nazione;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -42,8 +42,8 @@ public class Nazione
         if(provincia.getRegione()==null)
         {
             provincia.setRegione(regione);
+            regione.addProvincia(provincia);
         }
-        regione.addProvincia(provincia);
 
         Zona zona = this.zone.get(z);
         if(zona==null)
@@ -55,9 +55,62 @@ public class Nazione
         if(regione.getZona()==null)
         {
             regione.setZona(zona);
+            zona.addRegione(regione);
         }
-        zona.addRegione(regione);
 
         this.comuni.put(c, comune);
+    }
+
+    public void stampaComuni()
+    {
+        for(Comune c: this.comuni.values())
+        {
+            System.out.println(c.toString());
+        }
+    }
+
+    public void stampaProvince()
+    {
+        for(Provincia p: this.province.values())
+        {
+            System.out.println(p.toString());
+        }
+    }
+
+    public void stampaRegioni()
+    {
+        for(Regione r: this.regioni.values())
+        {
+            System.out.println(r.toString());
+        }
+    }
+
+    public void stampaZone()
+    {
+        for(Zona z: this.zone.values())
+        {
+            System.out.println(z.toString());
+        }
+    }
+
+    public void stampaComuniPerProvincia(String provincia)
+    {
+        Provincia p = this.province.get(provincia);
+
+        p.stampaComuni();
+    }
+
+    public void stampaProvincePerRegione(String regione)
+    {
+        Regione r = this.regioni.get(regione);
+
+        r.stampaProvince();
+    }
+
+    public void stampaRegioniPerZona(String zona)
+    {
+        Zona z = this.zone.get(zona);
+
+        z.stampaRegioni();
     }
 }

@@ -1,4 +1,4 @@
-package stat;
+package nazione;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -46,5 +46,22 @@ public class Regione
     public List<Provincia> getProvince()
     {
         return new LinkedList<>(this.province);
+    }
+
+    public void stampaProvince()
+    {
+        System.out.println("Province di " + this.nome + ":");
+        for(Provincia p: this.province)
+        {
+            System.out.println(p.toString());
+        }
+    }
+
+    @Override
+    public String toString()
+    {
+        String zona = this.zona.toString();
+
+        return this.nome + " - " + zona;
     }
 }

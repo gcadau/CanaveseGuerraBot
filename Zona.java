@@ -1,4 +1,4 @@
-package stat;
+package nazione;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -33,5 +33,20 @@ public class Zona
     public List<Regione> getRegioni()
     {
         return new LinkedList<>(this.regioni);
+    }
+
+    public void stampaRegioni()
+    {
+        System.out.println("Regioni di " + this.nome + ":");
+        for(Regione r: this.regioni)
+        {
+            System.out.println(r.toString());
+        }
+    }
+
+    @Override
+    public String toString()
+    {
+        return this.nome;
     }
 }
