@@ -2761,297 +2761,297 @@ Caponago;Nord-ovest;Lombardia;Monza e della Brianza
 Cornate d'Adda;Nord-ovest;Lombardia;Monza e della Brianza
 Lentate sul Seveso;Nord-ovest;Lombardia;Monza e della Brianza
 Roncello;Nord-ovest;Lombardia;Monza e della Brianza
-Aldino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Andriano;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Anterivo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Appiano sulla strada del vino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Avelengo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Badia;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Barbiano;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Bolzano;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Braies;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Brennero;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Bressanone;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Bronzolo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Brunico;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Caines;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Caldaro sulla strada del vino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Campo di Trens;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Campo Tures;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Castelbello-Ciardes;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Castelrotto;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Cermes;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Chienes;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Chiusa;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Cornedo all'Isarco;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Cortaccia sulla strada del vino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Cortina sulla strada del vino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Corvara in Badia;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Curon Venosta;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Dobbiaco;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Egna;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Falzes;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Fie' allo Sciliar;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Fortezza;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Funes;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Gais;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Gargazzone;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Glorenza;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Laces;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Lagundo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Laion;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Laives;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Lana;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Lasa;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Lauregno;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Luson;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Magre' sulla strada del vino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Malles Venosta;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Marebbe;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Marlengo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Martello;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Meltina;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Merano;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Monguelfo-Tesido;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Montagna;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Moso in Passiria;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Nalles;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Naturno;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Naz-Sciaves;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Nova Levante;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Nova Ponente;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Ora;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Ortisei;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Parcines;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Perca;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Plaus;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Ponte Gardena;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Postal;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Prato allo Stelvio;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Predoi;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Proves;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Racines;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Rasun-Anterselva;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Renon;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Rifiano;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Rio di Pusteria;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Rodengo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Salorno;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-San Candido;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-San Genesio Atesino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-San Leonardo in Passiria;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-San Lorenzo di Sebato;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-San Martino in Badia;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-San Martino in Passiria;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-San Pancrazio;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Santa Cristina Valgardena;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Sarentino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Scena;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Selva dei Molini;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Selva di Val Gardena;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Senales;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Sesto;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Silandro;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Sluderno;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Stelvio;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Terento;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Terlano;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Termeno sulla strada del vino;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Tesimo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Tires;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Tirolo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Trodena nel parco naturale;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Tubre;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Ultimo;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Vadena;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Valdaora;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Val di Vizze;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Valle Aurina;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Valle di Casies;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Vandoies;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Varna;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Verano;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Villabassa;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Villandro;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Vipiteno;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Velturno;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-La Valle;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Senale-San Felice;Nord-est;Trentino-Alto Adige/Südtirol;Bolzano/Bozen
-Ala;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Albiano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Aldeno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Andalo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Arco;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Avio;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Baselga di Pine';Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Bedollo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Besenello;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Bieno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Bleggio Superiore;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Bocenago;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Bondone;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Borgo Valsugana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Brentonico;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Bresimo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Brez;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Caderzone Terme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cagno';Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Calceranica al Lago;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Caldes;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Caldonazzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Calliano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Campitello di Fassa;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Campodenno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Canal San Bovo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Canazei;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Capriana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Carano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Carisolo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Carzano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Castel Condino;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Castelfondo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Castello-Molina di Fiemme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Castello Tesino;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Castelnuovo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cavalese;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cavareno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cavedago;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cavedine;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cavizzana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cimone;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cinte Tesino;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cis;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Civezzano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cles;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cloz;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Commezzadura;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Croviana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Daiano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Dambel;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Denno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Drena;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Dro;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Faedo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Fai della Paganella;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Fiave';Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Fierozzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Folgaria;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Fondo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Fornace;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Frassilongo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Garniga Terme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Giovo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Giustino;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Grigno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Imer;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Isera;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Lavarone;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Lavis;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Levico Terme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Livo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Lona-Lases;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Luserna;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Male';Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Malosco;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Massimeno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Mazzin;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Mezzana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Mezzano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Mezzocorona;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Mezzolombardo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Moena;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Molveno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Mori;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Nago-Torbole;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Nogaredo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Nomi;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Novaledo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ospedaletto;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ossana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Palu' del Fersina;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Panchia';Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ronzo-Chienis;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Peio;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Pellizzano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Pelugo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Pergine Valsugana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Pieve Tesino;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Pinzolo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Pomarolo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Predazzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Rabbi;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Revo';Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Riva del Garda;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Romallo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Romeno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Roncegno Terme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ronchi Valsugana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ronzone;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Rovere' della Luna;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Rovereto;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ruffre'-Mendola;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Rumo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Sagron Mis;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Samone;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-San Michele all'Adige;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Sant'Orsola Terme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Sanzeno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Sarnonico;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Scurelle;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Segonzano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Sfruz;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Soraga di Fassa;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Sover;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Spiazzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Spormaggiore;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Sporminore;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Stenico;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Storo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Strembo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Telve;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Telve di Sopra;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Tenna;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Tenno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Terragnolo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Terzolas;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Tesero;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Tione di Trento;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ton;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Torcegno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Trambileno;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Trento;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Valfloriana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Vallarsa;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Varena;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Vermiglio;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Vignola-Falesina;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Villa Lagarina;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Volano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ziano di Fiemme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Comano Terme;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ledro;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Predaia;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-San Lorenzo Dorsino;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Valdaone;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Dimaro Folgarida;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Pieve di Bono-Prezzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Altavalle;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Altopiano della Vigolana;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Amblar-Don;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Borgo Chiese;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Borgo Lares;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Castel Ivano;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Cembra Lisignago;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Conta';Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Madruzzo;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Porte di Rendena;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Primiero San Martino di Castrozza;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Sella Giudicarie;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Tre Ville;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Vallelaghi;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Ville d'Anaunia;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-San Giovanni di Fassa;Nord-est;Trentino-Alto Adige/Südtirol;Trento
-Terre d'Adige;Nord-est;Trentino-Alto Adige/Südtirol;Trento
+Aldino;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Andriano;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Anterivo;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Appiano sulla strada del vino;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Avelengo;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Badia;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Barbiano;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Bolzano;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Braies;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Brennero;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Bressanone;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Bronzolo;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Brunico;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Caines;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Caldaro sulla strada del vino;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Campo di Trens;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Campo Tures;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Castelbello-Ciardes;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Castelrotto;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Cermes;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Chienes;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Chiusa;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Cornedo all'Isarco;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Cortaccia sulla strada del vino;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Cortina sulla strada del vino;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Corvara in Badia;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Curon Venosta;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Dobbiaco;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Egna;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Falzes;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Fie' allo Sciliar;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Fortezza;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Funes;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Gais;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Gargazzone;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Glorenza;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Laces;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Lagundo;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Laion;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Laives;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Lana;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Lasa;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Lauregno;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Luson;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Magre' sulla strada del vino;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Malles Venosta;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Marebbe;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Marlengo;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Martello;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Meltina;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Merano;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Monguelfo-Tesido;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Montagna;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Moso in Passiria;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Nalles;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Naturno;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Naz-Sciaves;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Nova Levante;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Nova Ponente;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Ora;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Ortisei;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Parcines;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Perca;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Plaus;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Ponte Gardena;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Postal;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Prato allo Stelvio;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Predoi;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Proves;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Racines;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Rasun-Anterselva;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Renon;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Rifiano;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Rio di Pusteria;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Rodengo;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Salorno;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+San Candido;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+San Genesio Atesino;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+San Leonardo in Passiria;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+San Lorenzo di Sebato;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+San Martino in Badia;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+San Martino in Passiria;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+San Pancrazio;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Santa Cristina Valgardena;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Sarentino;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Scena;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Selva dei Molini;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Selva di Val Gardena;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Senales;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Sesto;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Silandro;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Sluderno;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Stelvio;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Terento;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Terlano;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Termeno sulla strada del vino;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Tesimo;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Tires;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Tirolo;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Trodena nel parco naturale;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Tubre;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Ultimo;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Vadena;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Valdaora;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Val di Vizze;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Valle Aurina;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Valle di Casies;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Vandoies;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Varna;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Verano;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Villabassa;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Villandro;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Vipiteno;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Velturno;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+La Valle;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Senale-San Felice;Nord-est;Trentino-Alto Adige/Sudtirol;Bolzano/Bozen
+Ala;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Albiano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Aldeno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Andalo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Arco;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Avio;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Baselga di Pine';Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Bedollo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Besenello;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Bieno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Bleggio Superiore;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Bocenago;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Bondone;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Borgo Valsugana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Brentonico;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Bresimo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Brez;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Caderzone Terme;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cagno';Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Calceranica al Lago;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Caldes;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Caldonazzo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Calliano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Campitello di Fassa;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Campodenno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Canal San Bovo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Canazei;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Capriana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Carano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Carisolo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Carzano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Castel Condino;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Castelfondo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Castello-Molina di Fiemme;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Castello Tesino;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Castelnuovo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cavalese;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cavareno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cavedago;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cavedine;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cavizzana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cimone;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cinte Tesino;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cis;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Civezzano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cles;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cloz;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Commezzadura;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Croviana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Daiano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Dambel;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Denno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Drena;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Dro;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Faedo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Fai della Paganella;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Fiave';Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Fierozzo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Folgaria;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Fondo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Fornace;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Frassilongo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Garniga Terme;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Giovo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Giustino;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Grigno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Imer;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Isera;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Lavarone;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Lavis;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Levico Terme;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Livo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Lona-Lases;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Luserna;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Male';Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Malosco;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Massimeno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Mazzin;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Mezzana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Mezzano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Mezzocorona;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Mezzolombardo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Moena;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Molveno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Mori;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Nago-Torbole;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Nogaredo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Nomi;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Novaledo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ospedaletto;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ossana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Palu' del Fersina;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Panchia';Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ronzo-Chienis;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Peio;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Pellizzano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Pelugo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Pergine Valsugana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Pieve Tesino;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Pinzolo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Pomarolo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Predazzo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Rabbi;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Revo';Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Riva del Garda;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Romallo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Romeno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Roncegno Terme;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ronchi Valsugana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ronzone;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Rovere' della Luna;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Rovereto;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ruffre'-Mendola;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Rumo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Sagron Mis;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Samone;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+San Michele all'Adige;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Sant'Orsola Terme;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Sanzeno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Sarnonico;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Scurelle;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Segonzano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Sfruz;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Soraga di Fassa;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Sover;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Spiazzo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Spormaggiore;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Sporminore;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Stenico;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Storo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Strembo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Telve;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Telve di Sopra;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Tenna;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Tenno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Terragnolo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Terzolas;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Tesero;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Tione di Trento;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ton;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Torcegno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Trambileno;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Trento;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Valfloriana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Vallarsa;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Varena;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Vermiglio;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Vignola-Falesina;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Villa Lagarina;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Volano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ziano di Fiemme;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Comano Terme;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ledro;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Predaia;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+San Lorenzo Dorsino;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Valdaone;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Dimaro Folgarida;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Pieve di Bono-Prezzo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Altavalle;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Altopiano della Vigolana;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Amblar-Don;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Borgo Chiese;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Borgo Lares;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Castel Ivano;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Cembra Lisignago;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Conta';Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Madruzzo;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Porte di Rendena;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Primiero San Martino di Castrozza;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Sella Giudicarie;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Tre Ville;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Vallelaghi;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Ville d'Anaunia;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+San Giovanni di Fassa;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
+Terre d'Adige;Nord-est;Trentino-Alto Adige/Sudtirol;Trento
 Affi;Nord-est;Veneto;Verona
 Albaredo d'Adige;Nord-est;Veneto;Verona
 Angiari;Nord-est;Veneto;Verona
