@@ -81,15 +81,14 @@ public class Comune
             if(this.nConquiste==1)
             {
                 System.out.println("1 comune controllato: ");
-                System.out.println("\t" + this.conquiste.get(0).toString());
             }
             else
             {
                 System.out.println(this.nConquiste + " comuni controllati: ");
-                for(Comune c: this.conquiste)
-                {
-                    System.out.println("\t" + c.toString());
-                }
+            }
+            for(Comune c: this.conquiste)
+            {
+                System.out.println("\t" + c.toString());
             }
         }
     }
@@ -97,6 +96,7 @@ public class Comune
     @Override
     public String toString()
     {
+        if (this.getProvincia()==null)      return this.nome + "( " + "N.D" + " )";
         return this.nome + "( " + this.provincia.toString() + " )";
     }
 }

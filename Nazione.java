@@ -10,12 +10,14 @@ public class Nazione
     private Map<String, Regione> regioni;
     private Map<String, Provincia> province;
 
+
     public Nazione()
     {
         this.comuni = new HashMap<>();
         this.province = new HashMap<>();
         this.regioni = new HashMap<>();
         this.zone = new HashMap<>();
+
     }
 
     public void add(String c, String p, String r, String z)
@@ -136,5 +138,16 @@ public class Nazione
         Comune c = this.comuni.get(comune);
 
         c.stampaConquiste();
+    }
+
+    public Comune addComuneRestante(String c)
+    {
+        Comune comune = new Comune(c);
+        comune.setProvincia(null);
+
+        consideraComune(c);
+        this.comuni.put(c, comune);
+
+        return comune;
     }
 }

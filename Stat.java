@@ -93,25 +93,25 @@ public class Stat
                 String[] pars = linea.split("-");
                 String comune = pars[0].substring(0, pars[0].length()-1);
                 c = nazione.consideraComune(comune);
-                if(c!=null)
-                {
-                    if(linea.contains("controllore"))
-                    {
-                        String[] contr = linea.split(":");
-                        String controllore = contr[1].substring(1);
-                        Comune comuneControllore = nazione.getComune(controllore);
-                        c.setControllore(comuneControllore);
-                    }
-                }
-                else
+
+                if(c==null)
                 {
                     ok=0;
+                    c = nazione.addComuneRestante(comune);
+                }
+                if(linea.contains("controllore"))
+                {
+                    String[] contr = linea.split(":");
+                    String controllore = contr[1].substring(1);
+                    Comune comuneControllore = nazione.getComune(controllore);
+                    c.setControllore(comuneControllore);
                 }
             }
             else
             {
                 String pars = linea.substring(1);
                 Comune conquista = nazione.getComune(pars);
+                if(conquista==null)     conquista = nazione.addComuneRestante(pars);
                 if (c!=null)    c.aggiungiConquista(conquista);
             }
 
