@@ -90,7 +90,7 @@ public class Stat
             String linea = linee.get(i);
             if(!linea.contains("\t"))
             {
-                String[] pars = linea.split("-");
+                String[] pars = linea.split("- ");
                 String comune = pars[0].substring(0, pars[0].length()-1);
                 c = nazione.consideraComune(comune);
 
