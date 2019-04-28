@@ -145,9 +145,9 @@ public class Nazione
         Comune comune = new Comune(c);
         comune.setProvincia(null);
 
-        consideraComune(c);
         this.comuni.put(c, comune);
-
+        consideraComune(c);
+        
         return comune;
     }
 }
