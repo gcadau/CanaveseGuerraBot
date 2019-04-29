@@ -120,7 +120,8 @@ public class Comune
     public String toString()
     {
         if (this.getProvincia()==null)      return this.nome + "( " + "N.D" + " )";
-        return this.nome + "( " + this.provincia.toString() + " )";
+        if (this.getArea()==null)           return this.nome + " (" + this.provincia.toString() + ") ";
+        return this.nome + " (" + this.provincia.toString() + ") " + "// in " + this.area.toString();
     }
 }
 
