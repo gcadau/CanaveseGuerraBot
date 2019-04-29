@@ -127,7 +127,7 @@ La Cassa;Nord-ovest;Piemonte;Torino
 La Loggia;Nord-ovest;Piemonte;Torino
 Lanzo Torinese;Nord-ovest;Piemonte;Torino
 Lauriano;Nord-ovest;Piemonte;Torino
-Leini;Nord-ovest;Piemonte;Torino
+Leini';Nord-ovest;Piemonte;Torino
 Lemie;Nord-ovest;Piemonte;Torino
 Lessolo;Nord-ovest;Piemonte;Torino
 Levone;Nord-ovest;Piemonte;Torino
@@ -1199,25 +1199,25 @@ Chamois;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Champdepraz;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Champorcher;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Charvensod;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
-Châtillon;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Chatillon;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Cogne;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Courmayeur;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Donnas;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Doues;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Emare'se;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Etroubles;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
-Fe'nis;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Fenis;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Fontainemore;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Gaby;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Gignod;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Gressan;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Gressoney-La-Trinite';Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Gressoney-Saint-Jean;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
-Hône;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Hone;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Introd;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Issime;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Issogne;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
-Jovençan;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Jovencan;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 La Magdeleine;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 La Salle;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 La Thuile;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
@@ -1234,8 +1234,8 @@ Pontey;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Pont-Saint-Martin;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Pre'-Saint-Didier;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Quart;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
-Rhêmes-Notre-Dame;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
-Rhêmes-Saint-Georges;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Rhemes-Notre-Dame;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Rhemes-Saint-Georges;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Roisan;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Saint-Christophe;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Saint-Denis;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
@@ -1243,7 +1243,7 @@ Saint-Marcel;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Ao
 Saint-Nicolas;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Saint-Oyen;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Saint-Pierre;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
-Saint-Rhe'my-en-Bosses;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
+Saint-Rhemy-en-Bosses;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Saint-Vincent;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Sarre;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste
 Torgnon;Nord-ovest;Valle d'Aosta/Valle'e d'Aoste;Valle d'Aosta/Valle'e d'Aoste

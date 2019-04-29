@@ -15,6 +15,8 @@ public class Comune
     private List<Comune> conquiste;
     private int nConquiste;
 
+    private Area area;
+
     public Comune(String nome)
     {
         this.nome = nome;
@@ -22,6 +24,7 @@ public class Comune
         this.controllore = this;
         this.conquiste = new LinkedList<>();
         this.nConquiste = 0;
+        this.area = null;
     }
 
     public void considera()
@@ -68,6 +71,26 @@ public class Comune
     public List<Comune> getConquiste()
     {
         return new LinkedList<>(this.conquiste);
+    }
+
+    public int getnConquiste()
+    {
+        return nConquiste;
+    }
+
+    public boolean isCons()
+    {
+        return (cons==1);
+    }
+
+    public Area getArea()
+    {
+        return area;
+    }
+
+    public void setArea(Area area)
+    {
+        this.area = area;
     }
 
     public void stampaConquiste()

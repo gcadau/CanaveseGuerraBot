@@ -48,10 +48,6 @@ public class Stat
             System.err.println(e.getMessage());
         }
 
-        if (lines == null) return null;
-
-        String[] headers = lines.remove(0).split(",");
-
         return lines;
     }
 
@@ -104,6 +100,7 @@ public class Stat
                     String[] contr = linea.split(":");
                     String controllore = contr[1].substring(1);
                     Comune comuneControllore = nazione.getComune(controllore);
+                    if(comuneControllore==null)     comuneControllore = nazione.addComuneRestante(controllore);
                     c.setControllore(comuneControllore);
                 }
             }
@@ -119,5 +116,10 @@ public class Stat
         }
 
         return (ok==1);
+    }
+
+    public static void method(Nazione nazione)
+    {
+        System.out.println(nazione.getComuni().stream().filter(c->c.isCons()).count());
     }
 }
