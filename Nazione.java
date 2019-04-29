@@ -108,6 +108,26 @@ public class Nazione
         return this.comuni.get(comune);
     }
 
+    public Provincia getProvincia(String provincia)
+    {
+        return this.province.get(provincia);
+    }
+
+    public Regione getRegione(String regione)
+    {
+        return this.regioni.get(regione);
+    }
+
+    public Zona getZona(String zona)
+    {
+        return this.zone.get(zona);
+    }
+
+    public Area getArea(String area)
+    {
+        return this.aree.get(area);
+    }
+
     public void stampaComuni()
     {
         for(Comune c: this.comuni.values())
