@@ -120,6 +120,10 @@ public class Stat
 
     public static void method(Nazione nazione)
     {
-        System.out.println(nazione.getComuni().stream().filter(c->c.isCons()).count());
+        /* GENERICO METODO PER LE STATISTICHE 
+                    SFRUTTANDO I METODI getter PER OTTENERE 
+                            LE COLLEZIONI DELLA CLASSE Nazione */
+        
+        //TO BE IMPLEMENTED 
     }
 }
