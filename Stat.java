@@ -1,13 +1,15 @@
 package stat;
 
+import utility.*;
+
 import nazione.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.List;
+import java.util.*;
 
-import static java.util.stream.Collectors.toList;
+import static java.util.stream.Collectors.*;
 
 public class Stat
 {
@@ -118,12 +120,108 @@ public class Stat
         return (ok==1);
     }
 
-    public static void method(Nazione nazione)
+    public static void comuniPotenti(Nazione nazione, int conquiste)
     {
-        /* GENERICO METODO PER LE STATISTICHE 
-                    SFRUTTANDO I METODI getter PER OTTENERE 
-                            LE COLLEZIONI DELLA CLASSE Nazione */
-        
-        //TO BE IMPLEMENTED 
+        nazione.getComuni().stream().filter(c -> c.getnConquiste()>= conquiste).collect(groupingBy(Comune::getnConquiste)).entrySet().stream().sorted( (m1, m2) -> m1.getKey()-m2.getKey() ).forEach(e -> {
+                                                                                                                                                                                                             int n = e.getKey();
+                                                                                                                                                                                                             System.out.println("Comuni con " + n + " territori controllati: ");
+                                                                                                                                                                                                             for(Comune c: e.getValue())
+                                                                                                                                                                                                             {
+                                                                                                                                                                                                                 System.out.println("\t" + c.toString());
+                                                                                                                                                                                                             }
+                                                                                                                                                                                                          });
     }
+
+    public static void comuniPotentiperZona(Nazione nazione, String zona, int conquiste)
+    {
+        nazione.getZona(zona).getRegioni().stream().flatMap(r -> r.getProvince().stream()).flatMap(p -> p.getComuni().stream()).filter(c -> c.getnConquiste()>= conquiste).collect(groupingBy(Comune::getnConquiste)).entrySet().stream().sorted( (m1, m2) -> m1.getKey()-m2.getKey() ).forEach(e -> {
+                                                                                                                                                                                                                                                                                                        int n = e.getKey();
+                                                                                                                                                                                                                                                                                                        System.out.println("Comuni con " + n + " territori controllati: ");
+                                                                                                                                                                                                                                                                                                        for(Comune c: e.getValue())
+                                                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                                                            System.out.println("\t" + c.toString());
+                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                     });
+    }
+
+    public static void comuniPotentiperRegione(Nazione nazione, String regione, int conquiste)
+    {
+        nazione.getRegione(regione).getProvince().stream().flatMap(p -> p.getComuni().stream()).filter(c -> c.getnConquiste()>= conquiste).collect(groupingBy(Comune::getnConquiste)).entrySet().stream().sorted( (m1, m2) -> m1.getKey()-m2.getKey() ).forEach(e -> {
+                                                                                                                                                                                                                                                                        int n = e.getKey();
+                                                                                                                                                                                                                                                                        System.out.println("Comuni con " + n + " territori controllati: ");
+                                                                                                                                                                                                                                                                        for(Comune c: e.getValue())
+                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                            System.out.println("\t" + c.toString());
+                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                     });
+    }
+
+    public static void comuniPotentiperProvincia(Nazione nazione, String provincia, int conquiste)
+    {
+        nazione.getProvincia(provincia).getComuni().stream().filter(c -> c.getnConquiste()>= conquiste).collect(groupingBy(Comune::getnConquiste)).entrySet().stream().sorted( (m1, m2) -> m1.getKey()-m2.getKey() ).forEach(e -> {
+                                                                                                                                                                                                                                        int n = e.getKey();
+                                                                                                                                                                                                                                        System.out.println("Comuni con " + n + " territori controllati: ");
+                                                                                                                                                                                                                                        for(Comune c: e.getValue())
+                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                            System.out.println("\t" + c.toString());
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                  });
+    }
+
+    public static void comuniPotentiperArea(Nazione nazione, String area, int conquiste)
+    {
+        nazione.getArea(area).getComuni().stream().filter(c -> c.getnConquiste()>= conquiste).collect(groupingBy(Comune::getnConquiste)).entrySet().stream().sorted( (m1, m2) -> m1.getKey()-m2.getKey() ).forEach(e -> {
+                                                                                                                                                                                                                            int n = e.getKey();
+                                                                                                                                                                                                                            System.out.println("Comuni con " + n + " territori controllati: ");
+                                                                                                                                                                                                                            for(Comune c: e.getValue())
+                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                System.out.println("\t" + c.toString());
+                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                        });
+    }
+
+    public static void provinceConComuniPotenti(Nazione nazione, int conquiste)
+    {
+        Contatore counter = new Contatore(1);
+        nazione.getProvince().stream().map( p -> p.getComuni().stream().filter(c -> c.getnConquiste()>=conquiste).collect(groupingBy(Comune::getnConquiste)) ).filter(m -> !m.isEmpty()).sorted( (m1, m2) -> {
+                                                                                                                                                                                                                int max1 = m1.keySet().stream().reduce(Math::max).get();
+                                                                                                                                                                                                                int max2 = m2.keySet().stream().reduce(Math::max).get();
+                                                                                                                                                                                                                int max = Math.max(max1, max2);
+                                                                                                                                                                                                                for(int i=max; i>=conquiste; i--)
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    int size1, size2;
+                                                                                                                                                                                                                    if(m1.get(i)==null)     size1 = 0;
+                                                                                                                                                                                                                    else                    size1 = m1.get(i).size();
+                                                                                                                                                                                                                    if(m2.get(i)==null)     size2 = 0;
+                                                                                                                                                                                                                    else                    size2 = m2.get(i).size();
+
+                                                                                                                                                                                                                    int size = size1-size2;
+                                                                                                                                                                                                                    if(size!=0)
+                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                        return -size;
+                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                                return 0;
+                                                                                                                                                                                                             } ).forEach( m -> {
+                                                                                                                                                                                                                                    Provincia p = null;
+                                                                                                                                                                                                                                    for(List<Comune> c: m.values())
+                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                        for(Comune cc: c)
+                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                            p = cc.getProvincia();
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                    int posto = counter.getPosto();
+                                                                                                                                                                                                                                    counter.setPosto(posto+1);
+                                                                                                                                                                                                                                    System.out.println(posto + "o posto: " + "Provincia di " + p.toString());
+                                                                                                                                                                                                                                    m.entrySet().stream().sorted( (m1, m2) -> -(m1.getKey()-m2.getKey()) ).forEach( e -> {
+                                                                                                                                                                                                                                                                                                                             System.out.println("\t" + e.getValue().size() + " comuni con " + e.getKey() + " territori controllati:");
+                                                                                                                                                                                                                                                                                                                             for(Comune c: e.getValue())
+                                                                                                                                                                                                                                                                                                                             {
+                                                                                                                                                                                                                                                                                                                                 System.out.println("\t\t" + c.toString());
+                                                                                                                                                                                                                                                                                                                             }
+                                                                                                                                                                                                                                                                                                                         });
+                                                                                                                                                                                                                               } );
+    }
+
 }
