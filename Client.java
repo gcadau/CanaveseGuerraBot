@@ -8,20 +8,19 @@ public class Client
 {
     public static void main(String[] args)
     {
-        String file = "C:\\Users\\Giovanni\\IdeaProjects\\untitled3\\Dettaglio_luoghi.csv.txt";
-        String situazione = "C:\\Users\\Giovanni\\IdeaProjects\\untitled3\\Dettagli.txt";
-        Nazione italia = Stat.caricaDB(file);
-
+        Nazione italia = Stat.caricaDB(LUOGHI);
         if(italia==null)
         {
-            System.err.println("Errore");
+            System.err.println("Errore nel caricamento dati.");
         }
         else
         {
-            Stat.caricaSituazione(italia, situazione);
-            Stat.provinceConComuniPotenti(italia, 0);
-            //Stat.comuniPotentiperProvincia(italia, "Bergamo", 5);
+            if(!Stat.caricaSituazione(italia, situazione))
+            {
+                System.err.println("Errore nel caricamento dettagli. Non tutti i comuni sono stati riconosciuti");
+            }
+            
+            /* USO DEI METODI DELLA CLASSE stat PER STAMPARE LE STATISTICHE */
         }
     }
 }
-
