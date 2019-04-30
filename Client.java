@@ -21,6 +21,8 @@ public class Client
             }
             
             /* USO DEI METODI DELLA CLASSE stat PER STAMPARE LE STATISTICHE */
+
+            Stat.comuniStranieriControllati_PercentualeProvincia(italia, "Valle d'Aosta/Valle'e d'Aoste");
         }
     }
 }

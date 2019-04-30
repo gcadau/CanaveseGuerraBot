@@ -2,20 +2,20 @@ package utility;
 
 public class Contatore
 {
-    private int posto;
+    private int valore;
 
     public Contatore(int p)
     {
-        this.posto = p;
+        this.valore = p;
     }
 
-    public int getPosto()
+    public int getValore()
     {
-        return posto;
+        return valore;
     }
 
-    public void setPosto(int posto)
+    public void setValore(int valore)
     {
-        this.posto = posto;
+        this.valore = valore;
     }
 }

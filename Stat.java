@@ -4,6 +4,7 @@ import utility.*;
 
 import nazione.*;
 
+import javax.sound.midi.SysexMessage;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -211,8 +212,8 @@ public class Stat
                                                                                                                                                                                                                                             p = cc.getProvincia();
                                                                                                                                                                                                                                         }
                                                                                                                                                                                                                                     }
-                                                                                                                                                                                                                                    int posto = counter.getPosto();
-                                                                                                                                                                                                                                    counter.setPosto(posto+1);
+                                                                                                                                                                                                                                    int posto = counter.getValore();
+                                                                                                                                                                                                                                    counter.setValore(posto+1);
                                                                                                                                                                                                                                     System.out.println(posto + "o posto: " + "Provincia di " + p.toString());
                                                                                                                                                                                                                                     m.entrySet().stream().sorted( (m1, m2) -> -(m1.getKey()-m2.getKey()) ).forEach( e -> {
                                                                                                                                                                                                                                                                                                                              System.out.println("\t" + e.getValue().size() + " comuni con " + e.getKey() + " territori controllati:");
@@ -222,6 +223,41 @@ public class Stat
                                                                                                                                                                                                                                                                                                                              }
                                                                                                                                                                                                                                                                                                                          });
                                                                                                                                                                                                                                } );
+    }
+
+    public static void comuniControllatiDaStranieriProvincia(Nazione nazione, String provincia)
+    {
+        Provincia p = nazione.getProvincia(provincia);
+
+        System.out.println("Comuni controllati da stranieri: " + p.comuniControllatiDaStranieri());
+    }
+
+    public static void comuniStranieriControllatiProvincia(Nazione nazione, String provincia)
+    {
+        Provincia p = nazione.getProvincia(provincia);
+
+        System.out.println("Comuni stranieri controllati: " + p.comuniStranieriControllati());
+    }
+
+    public static void comuniControllatiDaStranieri_PercentualeProvincia(Nazione nazione, String provincia)
+    {
+        Provincia p = nazione.getProvincia(provincia);
+
+        System.out.println("Comuni controllati da stranieri: " + p.comuniControllatiDaStranieri_Percentuale() + "%");
+    }
+
+    public static void comuniStranieriControllati_PercentualeProvincia(Nazione nazione, String provincia)
+    {
+        Provincia p = nazione.getProvincia(provincia);
+
+        System.out.println("Comuni stranieri controllati: " + p.comuniStranieriControllati_Percentuale(nazione) + "%");
+    }
+
+    public static void saldoComuniControllatiProvincia(Nazione nazione, String provincia)
+    {
+        Provincia p = nazione.getProvincia(provincia);
+
+        System.out.println("Saldo: " + p.saldoComuniControllati());
     }
 
 }
