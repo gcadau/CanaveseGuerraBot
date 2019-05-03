@@ -4,122 +4,12 @@ import utility.*;
 
 import nazione.*;
 
-import javax.sound.midi.SysexMessage;
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
 import java.util.*;
 
 import static java.util.stream.Collectors.*;
 
 public class Stat
 {
-    public static Nazione caricaDB(String file)
-    {
-        Nazione nazione = new Nazione();
-
-        String headers = null;
-        List<String> comuni = Stat.readData(file, headers);
-
-        if(comuni==null)    return null;
-
-        for(String c: comuni)
-        {
-            String[] comuneInfo = c.split(";");
-
-            String com = comuneInfo[0];
-            String zona = comuneInfo[1];
-            String reg = comuneInfo[2];
-            String prov = comuneInfo[3];
-
-            nazione.add(com, prov, reg, zona);
-        }
-
-        return nazione;
-    }
-
-
-    private static List<String> readData(String file)
-    {
-        List<String> lines = null;
-        try (BufferedReader in = new BufferedReader(new FileReader(file)))
-        {
-            lines = in.lines().collect(toList());
-        }
-        catch (IOException e)
-        {
-            System.err.println(e.getMessage());
-        }
-
-        return lines;
-    }
-
-    private static List<String> readData(String file, String h)
-    {
-        List<String> lines = null;
-        try (BufferedReader in = new BufferedReader(new FileReader(file)))
-        {
-            lines = in.lines().collect(toList());
-        }
-        catch (IOException e)
-        {
-            System.err.println(e.getMessage());
-        }
-
-        if (lines == null) return null;
-
-        h = lines.remove(0);
-
-        String[] headers = h.split(",");
-
-        return lines;
-    }
-
-    public static boolean caricaSituazione(Nazione nazione, String file)
-    {
-        List<String> linee = Stat.readData(file);
-
-        if(linee==null)    return false;
-
-        int ok=1;
-        int i=0;
-        Comune c = null;
-        while(i<linee.size())
-        {
-            String linea = linee.get(i);
-            if(!linea.contains("\t"))
-            {
-                String[] pars = linea.split("- ");
-                String comune = pars[0].substring(0, pars[0].length()-1);
-                c = nazione.consideraComune(comune);
-
-                if(c==null)
-                {
-                    ok=0;
-                    c = nazione.addComuneRestante(comune);
-                }
-                if(linea.contains("controllore"))
-                {
-                    String[] contr = linea.split(":");
-                    String controllore = contr[1].substring(1);
-                    Comune comuneControllore = nazione.getComune(controllore);
-                    if(comuneControllore==null)     comuneControllore = nazione.addComuneRestante(controllore);
-                    c.setControllore(comuneControllore);
-                }
-            }
-            else
-            {
-                String pars = linea.substring(1);
-                Comune conquista = nazione.getComune(pars);
-                if(conquista==null)     conquista = nazione.addComuneRestante(pars);
-                if (c!=null)    c.aggiungiConquista(conquista);
-            }
-
-            i++;
-        }
-
-        return (ok==1);
-    }
 
     public static void comuniPotenti(Nazione nazione, int conquiste)
     {
@@ -181,6 +71,7 @@ public class Stat
                                                                                                                                                                                                                         });
     }
 
+
     public static void provinceConComuniPotenti(Nazione nazione, int conquiste)
     {
         Contatore counter = new Contatore(1);
@@ -225,6 +116,7 @@ public class Stat
                                                                                                                                                                                                                                } );
     }
 
+
     public static void comuniControllatiDaStranieriProvincia(Nazione nazione, String provincia)
     {
         Provincia p = nazione.getProvincia(provincia);
@@ -258,6 +150,40 @@ public class Stat
         Provincia p = nazione.getProvincia(provincia);
 
         System.out.println("Saldo: " + p.saldoComuniControllati());
+    }
+
+    public static void classificaSaldoComuniControllatiProvincia(Nazione nazione)
+    {
+        Map<String, Long> m = new HashMap<>();
+
+        for(Provincia p: nazione.getProvince())
+        {
+            m.put(p.getNome(), p.saldoComuniControllati());
+        }
+
+        m.entrySet().stream().sorted( (e1, e2) -> {
+                                                      return - ( e1.getValue().intValue() - e2.getValue().intValue() );
+                                                  } ).forEach( e -> {
+                                                                        System.out.println(e.getKey() + ", saldo = " + e.getValue());
+                                                                    } );
+    }
+
+    public static void classificaSaldoComuniControllatiProvinciaLong(Nazione nazione)
+    {
+        Map<Provincia, Long> m = new HashMap<>();
+
+        for(Provincia p: nazione.getProvince())
+        {
+            m.put(p, p.saldoComuniControllati());
+        }
+
+        m.entrySet().stream().sorted( (e1, e2) -> {
+                                                      return - ( e1.getValue().intValue() - e2.getValue().intValue() );
+                                                  } ).forEach( e -> {
+                                                                        System.out.println(e.getKey().getNome() + ", saldo = " + e.getValue());
+                                                                        System.out.println("\tComuni stranieri controllati: " + e.getKey().comuniStranieriControllati() + ", comuni controllati da stranieri: " + e.getKey().comuniControllatiDaStranieri());
+                                                                        System.out.println("\tPercentuale di comuni stranieri controllati: " + e.getKey().comuniStranieriControllati_Percentuale(nazione) + "%, percentuale di comuni caduti sotto il dominio straniero: " + e.getKey().comuniControllatiDaStranieri_Percentuale() + "%");
+                                                                    } );
     }
 
 }
