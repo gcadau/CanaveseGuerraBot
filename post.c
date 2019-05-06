@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 
     char FILE_OUT_BIS[L];
     strcpy(FILE_OUT_BIS, FILE_OUT);
-    strcat(FILE_OUT_BIS, ".bis");
+    strcat(FILE_OUT_BIS, ".bis.txt");
 
     FILE* f = fopen(FILE_IN, "r");
     FILE* gg = fopen(FILE_OUT, "w");
